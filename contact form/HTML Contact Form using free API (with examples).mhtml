@@ -1,0 +1,2395 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://web3forms.com/platforms/html-contact-form
+Subject: HTML Contact Form using free API (with examples)
+Date: Mon, 9 Dec 2024 20:45:46 +0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----"
+
+
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: text/html
+Content-ID: <frame-E62109BB00AA7A2ADE65C23D34AE9FEB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web3forms.com/platforms/html-contact-form
+
+<!DOCTYPE html><html lang=3D"en" data-qb-installed=3D"true" style=3D""><hea=
+d><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-29d2555f-c0a1-46=
+d9-b528-c7af0fb2c180@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/c=
+ss" href=3D"cid:css-d9481bc1-f129-44d0-a78b-91e359a8cd0a@mhtml.blink" /><me=
+ta name=3D"viewport" content=3D"width=3Ddevice-width"><title>HTML Contact F=
+orm using free API (with examples)</title><meta property=3D"article:publish=
+ed_time" content=3D"2023-09-28T15:24:14.000Z"><meta property=3D"article:mod=
+ified_time" content=3D"2024-12-09T14:41:44.908Z"><link rel=3D"icon" type=3D=
+"image/svg+xml" href=3D"https://web3forms.com/favicon.svg"><meta name=3D"ne=
+xt-head-count" content=3D"6"><link rel=3D"preload" href=3D"https://web3form=
+s.com/_next/static/css/8ca31cbfc60742bb.css" as=3D"style"><link rel=3D"styl=
+esheet" href=3D"https://web3forms.com/_next/static/css/8ca31cbfc60742bb.css=
+" data-n-g=3D""><link as=3D"script" rel=3D"prefetch" href=3D"https://web3fo=
+rms.com/_next/static/chunks/3229-1f8c6fc554536496.js"><link as=3D"script" r=
+el=3D"prefetch" href=3D"https://web3forms.com/_next/static/chunks/pages/pla=
+tforms/%5Bplatform%5D-64ea61ab587ac71d.js"><link as=3D"script" rel=3D"prefe=
+tch" href=3D"https://web3forms.com/_next/static/chunks/pages/platforms-0762=
+b981814d14a9.js"><link as=3D"script" rel=3D"prefetch" href=3D"https://web3f=
+orms.com/_next/static/chunks/pages/features-7a1996933e1ade7c.js"><link as=
+=3D"script" rel=3D"prefetch" href=3D"https://web3forms.com/_next/static/chu=
+nks/pages/help-431e54fce094dff3.js"><link as=3D"script" rel=3D"prefetch" hr=
+ef=3D"https://web3forms.com/_next/static/chunks/pages/terms-2851747e5a660de=
+f.js"><link as=3D"script" rel=3D"prefetch" href=3D"https://web3forms.com/_n=
+ext/static/chunks/pages/pricing-5a916a3b47faf2dc.js"><link as=3D"script" re=
+l=3D"prefetch" href=3D"https://web3forms.com/_next/static/chunks/7311-399bd=
+cc21ec296c4.js"><link as=3D"script" rel=3D"prefetch" href=3D"https://web3fo=
+rms.com/_next/static/chunks/2962-26884c79d8846fb8.js"><link as=3D"script" r=
+el=3D"prefetch" href=3D"https://web3forms.com/_next/static/chunks/pages/blo=
+g-569d04ea738262f0.js"><link as=3D"script" rel=3D"prefetch" href=3D"https:/=
+/web3forms.com/_next/static/chunks/pages/examples-9b3c9f8820643fed.js"><lin=
+k as=3D"script" rel=3D"prefetch" href=3D"https://web3forms.com/_next/static=
+/chunks/pages/privacy-260eec801b8f98a2.js"><link as=3D"script" rel=3D"prefe=
+tch" href=3D"https://web3forms.com/_next/static/chunks/pages/report-abuse-2=
+21a52489fb77d00.js"><link as=3D"script" rel=3D"prefetch" href=3D"https://we=
+b3forms.com/_next/static/chunks/pages/templates-17eda631ba91a50a.js"><link =
+as=3D"script" rel=3D"prefetch" href=3D"https://web3forms.com/_next/static/c=
+hunks/pages/alternatives-39b3090682535997.js"></head><body><div id=3D"__nex=
+t"><div class=3D"w-full"><nav class=3D"container relative flex flex-wrap it=
+ems-center justify-center p-8 mx-auto lg:justify-between lg:px-5 xl:px-0"><=
+div class=3D"flex items-center"><a class=3D"text-lg font-bold text-indigo-5=
+00" href=3D"https://web3forms.com/"><img alt=3D"Web3Forms" loading=3D"eager=
+" width=3D"256" height=3D"47" decoding=3D"async" data-nimg=3D"1" src=3D"htt=
+ps://web3forms.com/img/web3forms-logo.svg" style=3D"color: transparent;"></=
+a></div><button type=3D"button" aria-label=3D"Toggle Menu" class=3D"block p=
+x-2 ml-auto text-indigo-100 lg:hidden hover:text-indigo-200 focus:outline-n=
+one focus:text-primary-500"><svg class=3D"w-6 h-6 fill-current" xmlns=3D"ht=
+tp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24"><path fill-rule=3D"evenodd"=
+ d=3D"M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0=
+ 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"></path></svg></button><div c=
+lass=3D"w-full flex-grow lg:flex lg:items-center lg:w-auto text-center hidd=
+en "><ul class=3D"items-center justify-end flex-1 pt-6 lg:pt-0 list-reset l=
+g:flex"><li class=3D"mr-3 nav__item"><a data-umami-event=3D"Clicked Feature=
+s" class=3D"text-ml inline-block text-gray-300 no-underline hover:text-indi=
+go-500 py-2 px-4" href=3D"https://web3forms.com/features">Features</a></li>=
+<li class=3D"mr-3 nav__item"><a data-umami-event=3D"Clicked Form Templates"=
+ class=3D"text-ml inline-block text-gray-300 no-underline hover:text-indigo=
+-500 py-2 px-4" href=3D"https://web3forms.com/templates">Form Templates</a>=
+</li><li class=3D"mr-3 nav__item"><a data-umami-event=3D"Clicked Pricing" c=
+lass=3D"text-ml inline-block text-gray-300 no-underline hover:text-indigo-5=
+00 py-2 px-4" href=3D"https://web3forms.com/pricing">Pricing</a></li><li cl=
+ass=3D"mr-3 nav__item"><a data-umami-event=3D"Clicked Blog" class=3D"text-m=
+l inline-block text-gray-300 no-underline hover:text-indigo-500 py-2 px-4" =
+href=3D"https://web3forms.com/blog">Blog</a></li><li class=3D"mr-3 nav__ite=
+m"><a href=3D"https://docs.web3forms.com/" target=3D"_blank" rel=3D"noopene=
+r" data-umami-event=3D"Clicked Docs Link" class=3D"text-ml inline-block tex=
+t-gray-300 no-underline hover:text-indigo-500 py-2 px-4">Documentation</a><=
+/li><li class=3D"mr-3 nav__item"><a data-umami-event=3D"Clicked Help Suppor=
+t Link" class=3D"btn-secondary md:ml-5" href=3D"https://web3forms.com/help"=
+>Help &amp; Support</a></li></ul></div></nav></div><div class=3D"container =
+my-16 text-center"><div class=3D"grid place-items-center"><img alt=3D"Icon"=
+ loading=3D"lazy" width=3D"105" height=3D"65" decoding=3D"async" data-nimg=
+=3D"1" src=3D"https://web3forms.com/img/logos/html.svg" style=3D"color: tra=
+nsparent;"></div><h1 class=3D"mt-4 py-4 text-4xl font-medium text-white lg:=
+text-5xl text-opacity-90">Contact Forms for HTML Websites</h1><p class=3D"m=
+ax-w-3xl mx-auto text-xl text-indigo-200 lg:leading-normal lg:text-2xl text=
+-opacity-70">Build a working contact form for your HTML website. Send HTML =
+form data to email using API in three simple steps. See example code below.=
+ No backend or server code needed.</p><a data-umami-event=3D"Clicked Platfo=
+rm CTA" class=3D"mt-5 btn-primary" href=3D"https://web3forms.com/platforms/=
+html-contact-form#step__1">Show steps =E2=86=93</a><p class=3D"py-3 text-in=
+digo-100 text-opacity-75 "><small>No Signup required</small></p></div><div =
+class=3D"mt-20"><div class=3D"container max-w-screen-xl px-4 mx-auto my-10"=
+ id=3D"features"><div class=3D"grid grid-cols-1 gap-4 md:grid-cols-2 lg:gri=
+d-cols-3"><div class=3D"my-5 grid__item lg:m-5"><div class=3D"flex items-ce=
+nter justify-center text-indigo-300 bg-blue-800 rounded-full w-14 h-14 bg-o=
+pacity-30"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"no=
+ne" xmlns=3D"http://www.w3.org/2000/svg"> <path d=3D"M10 20L14 4M18 8L22 12=
+L18 16M6 16L2 12L6 8" stroke=3D"currentColor" stroke-width=3D"2" stroke-lin=
+ecap=3D"round" stroke-linejoin=3D"round"></path> </svg></div><h3 class=3D"p=
+t-2 my-4 text-xl font-medium text-white text-opacity-90">No Backend Code</h=
+3><p class=3D"text-lg text-indigo-200 text-opacity-70">You already know! Se=
+tting up form backend is pain. Web3Forms works without any Server or backen=
+d code. </p></div><div class=3D"my-5 grid__item lg:m-5"><div class=3D"flex =
+items-center justify-center text-indigo-300 bg-blue-800 rounded-full w-14 h=
+-14 bg-opacity-30"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fi=
+ll=3D"none" xmlns=3D"http://www.w3.org/2000/svg"> <path d=3D"M10 20L14 4M18=
+ 8L22 12L18 16M6 16L2 12L6 8" stroke=3D"currentColor" stroke-width=3D"2" st=
+roke-linecap=3D"round" stroke-linejoin=3D"round"></path> </svg></div><h3 cl=
+ass=3D"pt-2 my-4 text-xl font-medium text-white text-opacity-90">No Databas=
+es</h3><p class=3D"text-lg text-indigo-200 text-opacity-70">All emails are =
+sent directly to your email address. We never store your form submissions.<=
+/p></div><div class=3D"my-5 grid__item lg:m-5"><div class=3D"flex items-cen=
+ter justify-center text-indigo-300 bg-blue-800 rounded-full w-14 h-14 bg-op=
+acity-30"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"non=
+e" xmlns=3D"http://www.w3.org/2000/svg"> <path d=3D"M10 20L14 4M18 8L22 12L=
+18 16M6 16L2 12L6 8" stroke=3D"currentColor" stroke-width=3D"2" stroke-line=
+cap=3D"round" stroke-linejoin=3D"round"></path> </svg></div><h3 class=3D"pt=
+-2 my-4 text-xl font-medium text-white text-opacity-90">Design without Limi=
+ts</h3><p class=3D"text-lg text-indigo-200 text-opacity-70">Web3Forms is an=
+ API based form backend. We can seamlessly integrate to any custom design o=
+r style.</p></div></div></div></div><div class=3D"container mt-20 text-cent=
+er"><div class=3D"container max-w-screen-xl px-4 mx-auto" id=3D"start"><div=
+ class=3D"my-20 text-center"><h3 class=3D"py-4 text-4xl font-medium text-wh=
+ite text-opacity-90">Create HTML Contact Form</h3><p class=3D"max-w-md mx-a=
+uto text-xl text-indigo-200 text-opacity-70">Creating HTML Contact Form is =
+easy as 1 2 3. Just follow the steps and you=E2=80=99re done.</p></div><div=
+ id=3D"step__1" class=3D"flex flex-col items-center mb-14"><div class=3D"fl=
+ex items-center justify-center text-3xl text-indigo-300 bg-blue-800 rounded=
+-full w-14 h-14 bg-opacity-30">1</div><h4 class=3D"mt-4 mb-1 text-2xl font-=
+medium text-white text-opacity-90"><span class=3D"sr-only">Step 1:</span> C=
+reate Access Key</h4><p class=3D"text-lg text-center text-indigo-200 text-o=
+pacity-70">Access key will be sent to your email address.</p><div class=3D"=
+w-full max-w-md mx-auto my-5 bg-gray-700 rounded-md bg-opacity-40 p-7"><div=
+ class=3D"flex flex-col items-center justify-center text-center text-white =
+rounded-md"><svg width=3D"100" height=3D"100" class=3D"text-green-300" view=
+Box=3D"0 0 100 100" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg"><pat=
+h d=3D"M26.6666 50L46.6666 66.6667L73.3333 33.3333M50 96.6667C43.8716 96.66=
+67 37.8033 95.4596 32.1414 93.1144C26.4796 90.7692 21.3351 87.3317 17.0017 =
+82.9983C12.6683 78.6649 9.23082 73.5204 6.8856 67.8586C4.54038 62.1967 3.33=
+331 56.1283 3.33331 50C3.33331 43.8716 4.54038 37.8033 6.8856 32.1414C9.230=
+82 26.4796 12.6683 21.3351 17.0017 17.0017C21.3351 12.6683 26.4796 9.23084 =
+32.1414 6.88562C37.8033 4.5404 43.8716 3.33333 50 3.33333C62.3767 3.33333 7=
+4.2466 8.24998 82.9983 17.0017C91.75 25.7534 96.6666 37.6232 96.6666 50C96.=
+6666 62.3768 91.75 74.2466 82.9983 82.9983C74.2466 91.75 62.3767 96.6667 50=
+ 96.6667Z" stroke=3D"currentColor" stroke-width=3D"3"></path></svg><h3 clas=
+s=3D"text-2xl text-green-300 py-7">Success</h3><p class=3D"text-gray-300 md=
+:px-3">Success. Please check your email to get your Access Key</p><button c=
+lass=3D"mt-5 focus:outline-none">Go back</button></div></div></div><div id=
+=3D"step__2" class=3D"flex flex-col items-center mb-14"><div class=3D"flex =
+items-center justify-center text-3xl text-indigo-300 bg-blue-800 rounded-fu=
+ll w-14 h-14 bg-opacity-30">2</div><h4 class=3D"mt-4 mb-1 text-2xl font-med=
+ium text-white text-opacity-90"><span class=3D"sr-only">Step 2:</span> Crea=
+te HTML Form</h4><p class=3D"text-lg text-center text-indigo-200 text-opaci=
+ty-70">Use the following code example to create a form inside your HTML web=
+site.</p><div class=3D"w-full max-w-3xl mt-6 mb-3 text-center"><pre class=
+=3D"whitespace-pre-wrap rounded-sm codehighlight highlight-lines" style=3D"=
+color: rgb(248, 248, 242); background: rgb(39, 40, 34); text-shadow: rgba(0=
+, 0, 0, 0.3) 0px 1px; font-family: ui-monospace, SFMono-Regular, Menlo, Mon=
+aco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, monosp=
+ace; font-size: 1em; text-align: left; white-space: pre; word-spacing: norm=
+al; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: =
+4; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; border-r=
+adius: 0.3em;"><code class=3D"language-markup" style=3D"color: rgb(248, 248=
+, 242); background: none; text-shadow: rgba(0, 0, 0, 0.3) 0px 1px; font-fam=
+ily: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberatio=
+n Mono&quot;, &quot;Courier New&quot;, monospace; font-size: 1em; text-alig=
+n: left; white-space: pre; word-spacing: normal; word-break: normal; overfl=
+ow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none;"><span class=
+=3D"token" style=3D"color: rgb(248, 248, 242);">&lt;</span><span class=3D"t=
+oken" style=3D"color: rgb(255, 142, 183);">form</span><span class=3D"token"=
+ style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"token" style=
+=3D"color: rgb(166, 226, 46);">action</span><span class=3D"token attr-equal=
+s" style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"token" sty=
+le=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"co=
+lor: rgb(230, 219, 116);">https://api.web3forms.com/submit</span><span clas=
+s=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span class=3D"tok=
+en" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"token" styl=
+e=3D"color: rgb(166, 226, 46);">method</span><span class=3D"token attr-equa=
+ls" style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"token" st=
+yle=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"c=
+olor: rgb(230, 219, 116);">POST</span><span class=3D"token" style=3D"color:=
+ rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(248=
+, 248, 242);">&gt;</span><span>
+</span>
+<span>    </span><span class=3D"token" style=3D"color: rgb(248, 248, 242);"=
+>&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);">inpu=
+t</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);"> </span>=
+<span class=3D"token" style=3D"color: rgb(166, 226, 46);">type</span><span =
+class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=3D</span>=
+<span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span cl=
+ass=3D"token" style=3D"color: rgb(230, 219, 116);">hidden</span><span class=
+=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span class=3D"toke=
+n" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"token" style=
+=3D"color: rgb(166, 226, 46);">name</span><span class=3D"token attr-equals"=
+ style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"token" style=
+=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"colo=
+r: rgb(230, 219, 116);">access_key</span><span class=3D"token" style=3D"col=
+or: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(=
+255, 142, 183);"> </span><span class=3D"token" style=3D"color: rgb(166, 226=
+, 46);">value</span><span class=3D"token attr-equals" style=3D"color: rgb(2=
+48, 248, 242);">=3D</span><span class=3D"token" style=3D"color: rgb(248, 24=
+8, 242);">"</span><span class=3D"token" style=3D"color: rgb(230, 219, 116);=
+">YOUR_ACCESS_KEY_HERE</span><span class=3D"token" style=3D"color: rgb(248,=
+ 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(248, 248, 24=
+2);">&gt;</span><span>
+</span>
+<span>    </span><span class=3D"token" style=3D"color: rgb(248, 248, 242);"=
+>&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);">inpu=
+t</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);"> </span>=
+<span class=3D"token" style=3D"color: rgb(166, 226, 46);">type</span><span =
+class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=3D</span>=
+<span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span cl=
+ass=3D"token" style=3D"color: rgb(230, 219, 116);">text</span><span class=
+=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span class=3D"toke=
+n" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"token" style=
+=3D"color: rgb(166, 226, 46);">name</span><span class=3D"token attr-equals"=
+ style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"token" style=
+=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"colo=
+r: rgb(230, 219, 116);">name</span><span class=3D"token" style=3D"color: rg=
+b(248, 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(255, 1=
+42, 183);"> </span><span class=3D"token" style=3D"color: rgb(166, 226, 46);=
+">required</span><span class=3D"token" style=3D"color: rgb(248, 248, 242);"=
+>&gt;</span><span>
+</span><span>    </span><span class=3D"token" style=3D"color: rgb(248, 248,=
+ 242);">&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183)=
+;">input</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);"> =
+</span><span class=3D"token" style=3D"color: rgb(166, 226, 46);">type</span=
+><span class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=3D=
+</span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><=
+span class=3D"token" style=3D"color: rgb(230, 219, 116);">email</span><span=
+ class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span class=
+=3D"token" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"toke=
+n" style=3D"color: rgb(166, 226, 46);">name</span><span class=3D"token attr=
+-equals" style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"toke=
+n" style=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=
+=3D"color: rgb(230, 219, 116);">email</span><span class=3D"token" style=3D"=
+color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"color: r=
+gb(255, 142, 183);"> </span><span class=3D"token" style=3D"color: rgb(166, =
+226, 46);">required</span><span class=3D"token" style=3D"color: rgb(248, 24=
+8, 242);">&gt;</span><span>
+</span><span>    </span><span class=3D"token" style=3D"color: rgb(248, 248,=
+ 242);">&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183)=
+;">textarea</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);=
+"> </span><span class=3D"token" style=3D"color: rgb(166, 226, 46);">name</s=
+pan><span class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=
+=3D</span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</spa=
+n><span class=3D"token" style=3D"color: rgb(230, 219, 116);">message</span>=
+<span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span cl=
+ass=3D"token" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"t=
+oken" style=3D"color: rgb(166, 226, 46);">required</span><span class=3D"tok=
+en" style=3D"color: rgb(248, 248, 242);">&gt;</span><span class=3D"token" s=
+tyle=3D"color: rgb(248, 248, 242);">&lt;/</span><span class=3D"token" style=
+=3D"color: rgb(255, 142, 183);">textarea</span><span class=3D"token" style=
+=3D"color: rgb(248, 248, 242);">&gt;</span><span>
+</span><span>    </span><span class=3D"token" style=3D"color: rgb(248, 248,=
+ 242);">&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183)=
+;">button</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);">=
+ </span><span class=3D"token" style=3D"color: rgb(166, 226, 46);">type</spa=
+n><span class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=
+=3D</span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</spa=
+n><span class=3D"token" style=3D"color: rgb(230, 219, 116);">submit</span><=
+span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span cla=
+ss=3D"token" style=3D"color: rgb(248, 248, 242);">&gt;</span><span>Submit F=
+orm</span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">&lt;/<=
+/span><span class=3D"token" style=3D"color: rgb(255, 142, 183);">button</sp=
+an><span class=3D"token" style=3D"color: rgb(248, 248, 242);">&gt;</span><s=
+pan>
+</span>
+<span></span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">&lt=
+;/</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);">form</s=
+pan><span class=3D"token" style=3D"color: rgb(248, 248, 242);">&gt;</span><=
+/code></pre></div></div><div id=3D"step__3" class=3D"flex flex-col items-ce=
+nter mb-14"><div class=3D"flex items-center justify-center text-3xl text-in=
+digo-300 bg-blue-800 rounded-full w-14 h-14 bg-opacity-30">3</div><h4 class=
+=3D"mt-4 mb-1 text-2xl font-medium text-white text-opacity-90"><span class=
+=3D"sr-only">Step 3:</span> Add your Access Key</h4><p class=3D"text-lg tex=
+t-center text-indigo-200 text-opacity-70">Replace the access key with your =
+actual key to start receiving email submissions.</p><div class=3D"w-full ma=
+x-w-3xl mt-6 text-center"><pre class=3D"whitespace-pre-wrap rounded-sm code=
+highlight highlight-lines" style=3D"color: rgb(248, 248, 242); background: =
+rgb(39, 40, 34); text-shadow: rgba(0, 0, 0, 0.3) 0px 1px; font-family: ui-m=
+onospace, SFMono-Regular, Menlo, Monaco, Consolas, &quot;Liberation Mono&qu=
+ot;, &quot;Courier New&quot;, monospace; font-size: 1em; text-align: left; =
+white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: =
+normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 1em; margin:=
+ 0.5em 0px; overflow: auto; border-radius: 0.3em;"><code class=3D"language-=
+jsx" style=3D"color: rgb(248, 248, 242); background: none; text-shadow: rgb=
+a(0, 0, 0, 0.3) 0px 1px; font-family: ui-monospace, SFMono-Regular, Menlo, =
+Monaco, Consolas, &quot;Liberation Mono&quot;, &quot;Courier New&quot;, mon=
+ospace; font-size: 1em; text-align: left; white-space: pre; word-spacing: n=
+ormal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-siz=
+e: 4; hyphens: none;"><span class=3D"token" style=3D"color: rgb(248, 248, 2=
+42);">&lt;</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);"=
+>input</span><span class=3D"token" style=3D"color: rgb(255, 142, 183);"> </=
+span><span class=3D"token" style=3D"color: rgb(166, 226, 46);">type</span><=
+span class=3D"token attr-equals" style=3D"color: rgb(248, 248, 242);">=3D</=
+span><span class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><sp=
+an class=3D"token" style=3D"color: rgb(230, 219, 116);">hidden</span><span =
+class=3D"token" style=3D"color: rgb(248, 248, 242);">"</span><span class=3D=
+"token" style=3D"color: rgb(255, 142, 183);"> </span><span class=3D"token" =
+style=3D"color: rgb(166, 226, 46);">name</span><span class=3D"token attr-eq=
+uals" style=3D"color: rgb(248, 248, 242);">=3D</span><span class=3D"token" =
+style=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D=
+"color: rgb(230, 219, 116);">access_key</span><span class=3D"token" style=
+=3D"color: rgb(248, 248, 242);">"</span><span class=3D"token" style=3D"colo=
+r: rgb(255, 142, 183);"> </span><span class=3D"token" style=3D"color: rgb(1=
+66, 226, 46);">value</span><span class=3D"token attr-equals" style=3D"color=
+: rgb(248, 248, 242);">=3D</span><span class=3D"token" style=3D"color: rgb(=
+248, 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(230, 219=
+, 116);">YOUR_ACCESS_KEY_HERE</span><span class=3D"token" style=3D"color: r=
+gb(248, 248, 242);">"</span><span class=3D"token" style=3D"color: rgb(248, =
+248, 242);">&gt;</span></code></pre><a data-umami-event=3D"Clicked Detailed=
+ Docs" class=3D"mt-5 btn-secondary" rel=3D"noopener" target=3D"_blank" href=
+=3D"https://docs.web3forms.com/">HTML Docs &amp; code examples =E2=86=92</a=
+></div></div></div></div><div class=3D"text-center"><a class=3D"text-indigo=
+-200" href=3D"https://web3forms.com/platforms">=E2=86=90 View all Platforms=
+</a></div><div class=3D"max-w-screen-lg mx-auto my-20 text-center bg-indigo=
+-900/30 py-14 rounded-2xl"><h3 class=3D"py-4 text-4xl font-medium text-whit=
+e text-opacity-90">Get Started!</h3><p class=3D"text-xl text-indigo-200 tex=
+t-opacity-70">Create your contact form for static website in minutes.</p><a=
+ data-umami-event=3D"Clicked Footer CTA" class=3D"mt-5 btn-primary" href=3D=
+"https://web3forms.com/#start">Create your Access Key</a><p class=3D"py-3 t=
+ext-sm text-indigo-200 text-opacity-50">No Signup required</p></div><footer=
+ class=3D"mt-20 border-t border-gray-800"><div class=3D"max-w-screen-lg px-=
+5 mx-auto my-14"><div class=3D"grid gap-x-5 gap-y-16 sm:grid-cols-2 lg:grid=
+-cols-4"><div><h6 class=3D"mb-6 uppercase text-xs font-semibold text-white =
+tracking-wider opacity-50 space-x-1.5">Product</h6><ul class=3D"space-y-4 t=
+racking-wide text-white"><li><a class=3D"text-sm leading-6 hover:underline"=
+ href=3D"https://web3forms.com/features">Features</a></li><li><a class=3D"t=
+ext-sm leading-6 hover:underline" href=3D"https://web3forms.com/pricing">Pr=
+icing</a></li><li><a class=3D"text-sm leading-6 hover:underline" href=3D"ht=
+tps://web3forms.com/blog">Blog</a></li><li><a class=3D"text-sm leading-6 ho=
+ver:underline" href=3D"https://web3forms.com/platforms">Platforms</a></li><=
+li><a class=3D"text-sm leading-6 hover:underline" target=3D"_blank" rel=3D"=
+noopener" href=3D"https://docs.web3forms.com/">Documentation</a></li></ul><=
+/div><div><h6 class=3D"mb-6 uppercase text-xs font-semibold text-white trac=
+king-wider opacity-50 space-x-1.5">Resources</h6><ul class=3D"space-y-4 tra=
+cking-wide text-white"><li><a class=3D"text-sm leading-6 hover:underline" h=
+ref=3D"https://web3forms.com/">Form to HTML</a></li><li><a class=3D"text-sm=
+ leading-6 hover:underline" href=3D"https://web3forms.com/examples">Contact=
+ form Examples</a></li><li><a class=3D"text-sm leading-6 hover:underline" h=
+ref=3D"https://web3forms.com/examples">File upload Form</a></li><li><a clas=
+s=3D"text-sm leading-6 hover:underline" href=3D"https://web3forms.com/templ=
+ates">Contact form Templates</a></li><li><a class=3D"text-sm leading-6 hove=
+r:underline" href=3D"https://web3forms.com/examples">Recaptcha Contact Form=
+</a></li><li><a class=3D"text-sm leading-6 hover:underline" href=3D"https:/=
+/web3forms.com/alternatives">Alternatives</a></li></ul></div><div><h6 class=
+=3D"mb-6 uppercase text-xs font-semibold text-white tracking-wider opacity-=
+50 space-x-1.5">Company</h6><ul class=3D"space-y-4 tracking-wide text-white=
+"><li><a class=3D"text-sm leading-6 hover:underline" href=3D"https://web3fo=
+rms.com/help">Help &amp; Support</a></li><li><a class=3D"text-sm leading-6 =
+hover:underline" href=3D"https://feedback.web3forms.com/" target=3D"_blank"=
+ rel=3D"noopener">Submit Feedback</a></li><li><a class=3D"text-sm leading-6=
+ hover:underline" href=3D"https://web3forms.com/help?contact=3Dtrue">Contac=
+t Us</a></li><li><a class=3D"text-sm leading-6 hover:underline" target=3D"_=
+blank" rel=3D"noopener" href=3D"https://twitter.com/web3forms">Follow us on=
+ Twitter</a></li></ul></div><div><h6 class=3D"mb-6 uppercase text-xs font-s=
+emibold text-white tracking-wider opacity-50 space-x-1.5">Legal</h6><ul cla=
+ss=3D"space-y-4 tracking-wide text-white"><li><a class=3D"text-sm leading-6=
+ hover:underline" href=3D"https://web3forms.com/terms">Terms of Service</a>=
+</li><li><a class=3D"text-sm leading-6 hover:underline" href=3D"https://web=
+3forms.com/privacy">Privacy Policy</a></li><li><a class=3D"text-sm leading-=
+6 hover:underline" href=3D"https://web3forms.com/report-abuse">Report Abuse=
+</a></li><li><a class=3D"text-sm leading-6 hover:underline" target=3D"_blan=
+k" rel=3D"noopener" href=3D"https://status.web3forms.com/">Uptime Status</a=
+></li></ul></div></div></div><div class=3D"my-20 text-center"><p class=3D"p=
+y-3 text-sm text-indigo-200 text-opacity-50">Copyright =C2=A9 2024. Web3For=
+ms</p></div></footer><div><div><button class=3D"fixed z-50 flex items-cente=
+r justify-center transition duration-300 bg-indigo-600 rounded-full shadow-=
+lg right-5 bottom-5 w-14 h-14 focus:outline-none hover:bg-indigo-600 focus:=
+bg-indigo-600 ease" id=3D"headlessui-popover-button-:R56:" type=3D"button" =
+aria-expanded=3D"false"><div class=3D"absolute w-6 h-6 text-white"><svg xml=
+ns=3D"http://www.w3.org/2000/svg" class=3D"w-6 h-6" width=3D"24" height=3D"=
+24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-widt=
+h=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"><path d=3D"M21 1=
+5a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg> </d=
+iv><span class=3D"sr-only">Open Contact form Widget</span></button></div></=
+div></div><next-route-announcer><p aria-live=3D"assertive" id=3D"__next-rou=
+te-announcer__" role=3D"alert" style=3D"border: 0px; clip: rect(0px, 0px, 0=
+px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; positi=
+on: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: nor=
+mal;">HTML Contact Form using free API (with examples)</p></next-route-anno=
+uncer><audio class=3D"audio-output" style=3D"display: none;"></audio><div i=
+d=3D"volume-booster-visusalizer">
+                    <div class=3D"sound">
+                        <div class=3D"sound-icon"></div>
+                        <div class=3D"sound-wave sound-wave_one"></div>
+                        <div class=3D"sound-wave sound-wave_two"></div>
+                        <div class=3D"sound-wave sound-wave_three"></div>
+                    </div>
+                    <div class=3D"segments-box">
+                        <div data-range=3D"1-20" class=3D"segment"><span></=
+span></div>
+                        <div data-range=3D"21-40" class=3D"segment"><span><=
+/span></div>
+                        <div data-range=3D"41-60" class=3D"segment"><span><=
+/span></div>
+                        <div data-range=3D"61-80" class=3D"segment"><span><=
+/span></div>
+                        <div data-range=3D"81-100" class=3D"segment"><span>=
+</span></div>
+                    </div>
+                </div></body></html>
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-29d2555f-c0a1-46d9-b528-c7af0fb2c180@mhtml.blink
+
+@charset "utf-8";
+
+.lf-progress { appearance: none; width: 100%; height: 4px; border-radius: 3=
+px; cursor: pointer; }
+
+.lf-progress:focus { outline: none; border: none; }
+
+.lf-progress::-webkit-slider-thumb { height: 13px; width: 13px; border: 0px=
+; border-radius: 50%; background: rgb(15, 204, 206); cursor: pointer; appea=
+rance: none !important; }
+
+.lf-player-container :focus { outline: 0px; }
+
+.lf-popover { position: relative; }
+
+.lf-popover-content { display: inline-block; position: absolute; opacity: 1=
+; visibility: visible; transform: translate(0px, -10px); box-shadow: rgba(0=
+, 0, 0, 0.26) 0px 2px 5px 0px; transition: 0.3s cubic-bezier(0.75, -0.02, 0=
+.2, 0.97); }
+
+.lf-popover-content.hidden { opacity: 0; visibility: hidden; transform: tra=
+nslate(0px, 0px); }
+
+.lf-player-btn-container { display: flex; align-items: center; }
+
+.lf-player-btn { cursor: pointer; fill: rgb(153, 153, 153); width: 14px; }
+
+.lf-player-btn.active { fill: rgb(85, 85, 85); }
+
+.lf-popover { position: relative; }
+
+.lf-popover-content { display: inline-block; position: absolute; background=
+-color: rgb(255, 255, 255); opacity: 1; transform: translate(0px, -10px); b=
+ox-shadow: rgba(0, 0, 0, 0.26) 0px 2px 5px 0px; transition: 0.3s cubic-bezi=
+er(0.75, -0.02, 0.2, 0.97); padding: 10px; }
+
+.lf-popover-content.hidden { opacity: 0; visibility: hidden; transform: tra=
+nslate(0px, 0px); }
+
+.lf-arrow { position: absolute; z-index: -1; content: ""; bottom: -9px; bor=
+der-style: solid; border-width: 10px 10px 0px; }
+
+.lf-left-align, .lf-left-align .lfarrow { left: 0px; right: unset; }
+
+.lf-right-align, .lf-right-align .lf-arrow { right: 0px; left: unset; }
+
+.lf-text-input { border: 1px solid rgb(204, 204, 204); border-radius: 5px; =
+padding: 3px; width: 60px; margin: 0px; }
+
+.lf-color-picker { display: flex; flex-direction: row; justify-content: spa=
+ce-between; height: 90px; }
+
+.lf-color-selectors { display: flex; flex-direction: column; justify-conten=
+t: space-between; }
+
+.lf-color-component { display: flex; flex-direction: row; font-size: 12px; =
+align-items: center; justify-content: center; }
+
+.lf-color-component strong { width: 40px; }
+
+.lf-color-component input[type=3D"range"] { margin: 0px 0px 0px 10px; }
+
+.lf-color-component input[type=3D"number"] { width: 50px; margin: 0px 0px 0=
+px 10px; }
+
+.lf-color-preview { font-size: 12px; display: flex; flex-direction: column;=
+ align-items: center; justify-content: space-between; padding-left: 5px; }
+
+.lf-preview { height: 60px; width: 60px; }
+
+.lf-popover-snapshot { width: 150px; }
+
+.lf-popover-snapshot h5 { margin: 5px 0px 10px; font-size: 0.75rem; }
+
+.lf-popover-snapshot a { display: block; text-decoration: none; }
+
+.lf-popover-snapshot a::before { content: "=E2=A5=BC"; margin-right: 5px; }
+
+.lf-popover-snapshot .lf-note { display: block; margin-top: 10px; color: rg=
+b(153, 153, 153); }
+
+.lf-player-controls > div { margin-right: 5px; margin-left: 5px; }
+
+.lf-player-controls > div:first-child { margin-left: 0px; }
+
+.lf-player-controls > div:last-child { margin-right: 0px; }
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d9481bc1-f129-44d0-a78b-91e359a8cd0a@mhtml.blink
+
+@charset "utf-8";
+
+.lf-progress { appearance: none; width: 100%; height: 4px; border-radius: 3=
+px; cursor: pointer; }
+
+.lf-progress:focus { outline: none; border: none; }
+
+.lf-progress::-webkit-slider-thumb { height: 13px; width: 13px; border: 0px=
+; border-radius: 50%; background: rgb(15, 204, 206); cursor: pointer; appea=
+rance: none !important; }
+
+.lf-player-container :focus { outline: 0px; }
+
+.lf-popover { position: relative; }
+
+.lf-popover-content { display: inline-block; position: absolute; opacity: 1=
+; visibility: visible; transform: translate(0px, -10px); box-shadow: rgba(0=
+, 0, 0, 0.26) 0px 2px 5px 0px; transition: 0.3s cubic-bezier(0.75, -0.02, 0=
+.2, 0.97); }
+
+.lf-popover-content.hidden { opacity: 0; visibility: hidden; transform: tra=
+nslate(0px, 0px); }
+
+.lf-player-btn-container { display: flex; align-items: center; }
+
+.lf-player-btn { cursor: pointer; fill: rgb(153, 153, 153); width: 14px; }
+
+.lf-player-btn.active { fill: rgb(85, 85, 85); }
+
+.lf-popover { position: relative; }
+
+.lf-popover-content { display: inline-block; position: absolute; background=
+-color: rgb(255, 255, 255); opacity: 1; transform: translate(0px, -10px); b=
+ox-shadow: rgba(0, 0, 0, 0.26) 0px 2px 5px 0px; transition: 0.3s cubic-bezi=
+er(0.75, -0.02, 0.2, 0.97); padding: 10px; }
+
+.lf-popover-content.hidden { opacity: 0; visibility: hidden; transform: tra=
+nslate(0px, 0px); }
+
+.lf-arrow { position: absolute; z-index: -1; content: ""; bottom: -9px; bor=
+der-style: solid; border-width: 10px 10px 0px; }
+
+.lf-left-align, .lf-left-align .lfarrow { left: 0px; right: unset; }
+
+.lf-right-align, .lf-right-align .lf-arrow { right: 0px; left: unset; }
+
+.lf-text-input { border: 1px solid rgb(204, 204, 204); border-radius: 5px; =
+padding: 3px; width: 60px; margin: 0px; }
+
+.lf-color-picker { display: flex; flex-direction: row; justify-content: spa=
+ce-between; height: 90px; }
+
+.lf-color-selectors { display: flex; flex-direction: column; justify-conten=
+t: space-between; }
+
+.lf-color-component { display: flex; flex-direction: row; font-size: 12px; =
+align-items: center; justify-content: center; }
+
+.lf-color-component strong { width: 40px; }
+
+.lf-color-component input[type=3D"range"] { margin: 0px 0px 0px 10px; }
+
+.lf-color-component input[type=3D"number"] { width: 50px; margin: 0px 0px 0=
+px 10px; }
+
+.lf-color-preview { font-size: 12px; display: flex; flex-direction: column;=
+ align-items: center; justify-content: space-between; padding-left: 5px; }
+
+.lf-preview { height: 60px; width: 60px; }
+
+.lf-popover-snapshot { width: 150px; }
+
+.lf-popover-snapshot h5 { margin: 5px 0px 10px; font-size: 0.75rem; }
+
+.lf-popover-snapshot a { display: block; text-decoration: none; }
+
+.lf-popover-snapshot a::before { content: "=E2=A5=BC"; margin-right: 5px; }
+
+.lf-popover-snapshot .lf-note { display: block; margin-top: 10px; color: rg=
+b(153, 153, 153); }
+
+.lf-player-controls > div { margin-right: 5px; margin-left: 5px; }
+
+.lf-player-controls > div:first-child { margin-left: 0px; }
+
+.lf-player-controls > div:last-child { margin-right: 0px; }
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web3forms.com/_next/static/css/8ca31cbfc60742bb.css
+
+@charset "utf-8";
+
+*, ::after, ::before { box-sizing: border-box; border: 0px solid rgb(226, 2=
+32, 240); }
+
+::after, ::before { --tw-content: ""; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-f=
+amily: Graphik, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", =
+"Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-setti=
+ngs: normal; font-variation-settings: normal; -webkit-tap-highlight-color: =
+transparent; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-variation-settings: normal; font-size: 1em; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-feat=
+ure-settings: inherit; font-variation-settings: inherit; font-size: 100%; f=
+ont-weight: inherit; line-height: inherit; letter-spacing: inherit; color: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: transpar=
+ent; background-image: none; }
+
+progress { vertical-align: baseline; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(148, 163=
+, 184); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden] { display: none; }
+
+@font-face { font-family: Graphik; src: local("Graphik-Bold"), url("/fonts/=
+Graphik-Bold.woff2") format("woff2"), url("/fonts/Graphik-Bold.woff") forma=
+t("woff"); font-weight: 700; font-style: normal; font-display: swap; }
+
+@font-face { font-family: Graphik; src: local("Graphik-Light"), url("/fonts=
+/Graphik-Light.woff2") format("woff2"), url("/fonts/Graphik-Light.woff") fo=
+rmat("woff"); font-weight: 300; font-style: normal; font-display: swap; }
+
+@font-face { font-family: Graphik; src: local("Graphik-Medium"), url("/font=
+s/Graphik-Medium.woff2") format("woff2"), url("/fonts/Graphik-Medium.woff")=
+ format("woff"); font-weight: 500; font-style: normal; font-display: swap; =
+}
+
+@font-face { font-family: Graphik; src: local("Graphik-Regular"), url("/fon=
+ts/Graphik-Regular.woff2") format("woff2"), url("/fonts/Graphik-Regular.wof=
+f") format("woff"); font-weight: 400; font-style: normal; font-display: swa=
+p; }
+
+@font-face { font-family: Graphik; src: local("Graphik-Semibold"), url("/fo=
+nts/Graphik-Semibold.woff2") format("woff2"), url("/fonts/Graphik-Semibold.=
+woff") format("woff"); font-weight: 600; font-style: normal; font-display: =
+swap; }
+
+html { scroll-behavior: smooth; }
+
+body { --tw-bg-opacity: 1; background-color: rgb(15 23 42/var(--tw-bg-opaci=
+ty)); }
+
+.prose :not(pre) > code { padding: 0.125rem 0.25rem; --tw-text-opacity: 1; =
+color: rgb(99 102 241/var(--tw-text-opacity)); }
+
+.prose pre[class*=3D"language-"] { --tw-bg-opacity: 1; background-color: rg=
+b(30 41 59/var(--tw-bg-opacity)); }
+
+*, ::after, ::before { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; =
+--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; -=
+-tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: =
+; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-=
+from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ;=
+ --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-s=
+pacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-widt=
+h: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5);=
+ --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shad=
+ow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness=
+: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --=
+tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw=
+-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: =
+; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity=
+: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; -=
+-tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::-webkit-backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --=
+tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --t=
+w-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; =
+--tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-fr=
+om-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; -=
+-tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spa=
+cing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:=
+ 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); -=
+-tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow=
+: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: =
+; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw=
+-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-b=
+ackdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; =
+--tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: =
+; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --t=
+w-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+::backdrop { --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-trans=
+late-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y=
+: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pin=
+ch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-posit=
+ion: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordi=
+nal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; =
+--tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --=
+tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring=
+-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0=
+000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-c=
+ontrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturat=
+e: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-=
+brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-bac=
+kdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-b=
+ackdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contai=
+n-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+.container { width: 100%; margin-right: auto; margin-left: auto; }
+
+@media (min-width: 640px) {
+  .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .container { max-width: 1024px; }
+}
+
+@media (min-width: 1280px) {
+  .container { max-width: 1280px; }
+}
+
+@media (min-width: 1536px) {
+  .container { max-width: 1536px; }
+}
+
+.prose { color: var(--tw-prose-body); max-width: 65ch; }
+
+.prose :where([class~=3D"lead"]):not(:where([class~=3D"not-prose"] *)) { co=
+lor: var(--tw-prose-lead); font-size: 1.25em; line-height: 1.6; margin-top:=
+ 1.2em; margin-bottom: 1.2em; }
+
+.prose :where(a):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-pr=
+ose-links); text-decoration: underline; font-weight: 500; }
+
+.prose :where(strong):not(:where([class~=3D"not-prose"] *)) { color: var(--=
+tw-prose-bold); font-weight: 600; }
+
+.prose :where(ol):not(:where([class~=3D"not-prose"] *)) { list-style-type: =
+decimal; padding-left: 1.625em; }
+
+.prose :where(ol[type=3D"A"]):not(:where([class~=3D"not-prose"] *)) { list-=
+style-type: upper-alpha; }
+
+.prose :where(ol[type=3D"a"]):not(:where([class~=3D"not-prose"] *)) { list-=
+style-type: lower-alpha; }
+
+.prose :where():not(:where([class~=3D"not-prose"] *)) { list-style-type: up=
+per-alpha; }
+
+.prose :where():not(:where([class~=3D"not-prose"] *)) { list-style-type: lo=
+wer-alpha; }
+
+.prose :where(ol[type=3D"I"]):not(:where([class~=3D"not-prose"] *)) { list-=
+style-type: upper-roman; }
+
+.prose :where(ol[type=3D"i"]):not(:where([class~=3D"not-prose"] *)) { list-=
+style-type: lower-roman; }
+
+.prose :where():not(:where([class~=3D"not-prose"] *)) { list-style-type: up=
+per-roman; }
+
+.prose :where():not(:where([class~=3D"not-prose"] *)) { list-style-type: lo=
+wer-roman; }
+
+.prose :where(ol[type=3D"1"]):not(:where([class~=3D"not-prose"] *)) { list-=
+style-type: decimal; }
+
+.prose :where(ul):not(:where([class~=3D"not-prose"] *)) { list-style-type: =
+disc; padding-left: 1.625em; }
+
+.prose :where(ol > li):not(:where([class~=3D"not-prose"] *))::marker { font=
+-weight: 400; color: var(--tw-prose-counters); }
+
+.prose :where(ul > li):not(:where([class~=3D"not-prose"] *))::marker { colo=
+r: var(--tw-prose-bullets); }
+
+.prose :where(hr):not(:where([class~=3D"not-prose"] *)) { border-color: var=
+(--tw-prose-hr); border-top-width: 1px; margin-top: 3em; margin-bottom: 3em=
+; }
+
+.prose :where(blockquote):not(:where([class~=3D"not-prose"] *)) { font-weig=
+ht: 500; font-style: italic; color: var(--tw-prose-quotes); border-left-wid=
+th: 0.25rem; border-left-color: var(--tw-prose-quote-borders); quotes: "=E2=
+=80=9C" "=E2=80=9D" "=E2=80=98" "=E2=80=99"; margin-top: 1.6em; margin-bott=
+om: 1.6em; padding-left: 1em; }
+
+.prose :where(blockquote p:first-of-type):not(:where([class~=3D"not-prose"]=
+ *))::before { content: open-quote; }
+
+.prose :where(blockquote p:last-of-type):not(:where([class~=3D"not-prose"] =
+*))::after { content: close-quote; }
+
+.prose :where(h1):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-p=
+rose-headings); font-weight: 800; font-size: 2.25em; margin-top: 0px; margi=
+n-bottom: 0.888889em; line-height: 1.11111; }
+
+.prose :where(h1 strong):not(:where([class~=3D"not-prose"] *)) { font-weigh=
+t: 900; }
+
+.prose :where(h2):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-p=
+rose-headings); font-weight: 700; font-size: 1.5em; margin-top: 2em; margin=
+-bottom: 1em; line-height: 1.33333; }
+
+.prose :where(h2 strong):not(:where([class~=3D"not-prose"] *)) { font-weigh=
+t: 800; }
+
+.prose :where(h3):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-p=
+rose-headings); font-weight: 600; font-size: 1.25em; margin-top: 1.6em; mar=
+gin-bottom: 0.6em; line-height: 1.6; }
+
+.prose :where(h3 strong):not(:where([class~=3D"not-prose"] *)) { font-weigh=
+t: 700; }
+
+.prose :where(h4):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-p=
+rose-headings); font-weight: 600; margin-top: 1.5em; margin-bottom: 0.5em; =
+line-height: 1.5; }
+
+.prose :where(h4 strong):not(:where([class~=3D"not-prose"] *)) { font-weigh=
+t: 700; }
+
+.prose :where(figure > *):not(:where([class~=3D"not-prose"] *)) { margin-to=
+p: 0px; margin-bottom: 0px; }
+
+.prose :where(figcaption):not(:where([class~=3D"not-prose"] *)) { color: va=
+r(--tw-prose-captions); font-size: 0.875em; line-height: 1.42857; margin-to=
+p: 0.857143em; }
+
+.prose :where(code):not(:where([class~=3D"not-prose"] *)) { color: var(--tw=
+-prose-code); font-weight: 600; font-size: 0.875em; }
+
+.prose :where(code):not(:where([class~=3D"not-prose"] *))::before { content=
+: "`"; }
+
+.prose :where(code):not(:where([class~=3D"not-prose"] *))::after { content:=
+ "`"; }
+
+.prose :where(a code):not(:where([class~=3D"not-prose"] *)) { color: var(--=
+tw-prose-links); }
+
+.prose :where(pre):not(:where([class~=3D"not-prose"] *)) { color: var(--tw-=
+prose-pre-code); background-color: var(--tw-prose-pre-bg); overflow-x: auto=
+; font-weight: 400; font-size: 0.875em; line-height: 1.71429; margin-top: 1=
+.71429em; margin-bottom: 1.71429em; border-radius: 0.375rem; padding: 0.857=
+143em 1.14286em; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"] *)) { background-=
+color: transparent; border-width: 0px; border-radius: 0px; padding: 0px; fo=
+nt-weight: inherit; color: inherit; font-size: inherit; font-family: inheri=
+t; line-height: inherit; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"] *))::before { con=
+tent: none; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"] *))::after { cont=
+ent: none; }
+
+.prose :where(table):not(:where([class~=3D"not-prose"] *)) { width: 100%; t=
+able-layout: auto; text-align: left; margin-top: 2em; margin-bottom: 2em; f=
+ont-size: 0.875em; line-height: 1.71429; }
+
+.prose :where(thead):not(:where([class~=3D"not-prose"] *)) { border-bottom-=
+width: 1px; border-bottom-color: var(--tw-prose-th-borders); }
+
+.prose :where(thead th):not(:where([class~=3D"not-prose"] *)) { color: var(=
+--tw-prose-headings); font-weight: 600; vertical-align: bottom; padding-rig=
+ht: 0.571429em; padding-bottom: 0.571429em; padding-left: 0.571429em; }
+
+.prose :where(tbody tr):not(:where([class~=3D"not-prose"] *)) { border-bott=
+om-width: 1px; border-bottom-color: var(--tw-prose-td-borders); }
+
+.prose :where(tbody tr:last-child):not(:where([class~=3D"not-prose"] *)) { =
+border-bottom-width: 0px; }
+
+.prose :where(tbody td):not(:where([class~=3D"not-prose"] *)) { vertical-al=
+ign: baseline; padding: 0.571429em; }
+
+.prose { --tw-prose-body: #374151; --tw-prose-headings: #111827; --tw-prose=
+-lead: #4b5563; --tw-prose-links: #111827; --tw-prose-bold: #111827; --tw-p=
+rose-counters: #6b7280; --tw-prose-bullets: #d1d5db; --tw-prose-hr: #e5e7eb=
+; --tw-prose-quotes: #111827; --tw-prose-quote-borders: #e5e7eb; --tw-prose=
+-captions: #6b7280; --tw-prose-code: #111827; --tw-prose-pre-code: #e5e7eb;=
+ --tw-prose-pre-bg: #1f2937; --tw-prose-th-borders: #d1d5db; --tw-prose-td-=
+borders: #e5e7eb; --tw-prose-invert-body: #d1d5db; --tw-prose-invert-headin=
+gs: #fff; --tw-prose-invert-lead: #9ca3af; --tw-prose-invert-links: #fff; -=
+-tw-prose-invert-bold: #fff; --tw-prose-invert-counters: #9ca3af; --tw-pros=
+e-invert-bullets: #4b5563; --tw-prose-invert-hr: #374151; --tw-prose-invert=
+-quotes: #f3f4f6; --tw-prose-invert-quote-borders: #374151; --tw-prose-inve=
+rt-captions: #9ca3af; --tw-prose-invert-code: #fff; --tw-prose-invert-pre-c=
+ode: #d1d5db; --tw-prose-invert-pre-bg: rgba(0,0,0,.5); --tw-prose-invert-t=
+h-borders: #4b5563; --tw-prose-invert-td-borders: #374151; font-size: 1rem;=
+ line-height: 1.75; }
+
+.prose :where(p):not(:where([class~=3D"not-prose"] *)) { margin-top: 1.25em=
+; margin-bottom: 1.25em; }
+
+.prose :where(img):not(:where([class~=3D"not-prose"] *)) { margin-top: 2em;=
+ margin-bottom: 2em; }
+
+.prose :where(video):not(:where([class~=3D"not-prose"] *)) { margin-top: 2e=
+m; margin-bottom: 2em; }
+
+.prose :where(figure):not(:where([class~=3D"not-prose"] *)) { margin-top: 2=
+em; margin-bottom: 2em; }
+
+.prose :where(h2 code):not(:where([class~=3D"not-prose"] *)) { font-size: 0=
+.875em; }
+
+.prose :where(h3 code):not(:where([class~=3D"not-prose"] *)) { font-size: 0=
+.9em; }
+
+.prose :where(li):not(:where([class~=3D"not-prose"] *)) { margin-top: 0.5em=
+; margin-bottom: 0.5em; }
+
+.prose :where(ol > li):not(:where([class~=3D"not-prose"] *)) { padding-left=
+: 0.375em; }
+
+.prose :where(ul > li):not(:where([class~=3D"not-prose"] *)) { padding-left=
+: 0.375em; }
+
+.prose > :where(ul > li p):not(:where([class~=3D"not-prose"] *)) { margin-t=
+op: 0.75em; margin-bottom: 0.75em; }
+
+.prose > :where(ul > li > :first-child):not(:where([class~=3D"not-prose"] *=
+)) { margin-top: 1.25em; }
+
+.prose > :where(ul > li > :last-child):not(:where([class~=3D"not-prose"] *)=
+) { margin-bottom: 1.25em; }
+
+.prose > :where(ol > li > :first-child):not(:where([class~=3D"not-prose"] *=
+)) { margin-top: 1.25em; }
+
+.prose > :where(ol > li > :last-child):not(:where([class~=3D"not-prose"] *)=
+) { margin-bottom: 1.25em; }
+
+.prose :where(ul ul, ul ol, ol ul, ol ol):not(:where([class~=3D"not-prose"]=
+ *)) { margin-top: 0.75em; margin-bottom: 0.75em; }
+
+.prose :where(hr + *):not(:where([class~=3D"not-prose"] *)) { margin-top: 0=
+px; }
+
+.prose :where(h2 + *):not(:where([class~=3D"not-prose"] *)) { margin-top: 0=
+px; }
+
+.prose :where(h3 + *):not(:where([class~=3D"not-prose"] *)) { margin-top: 0=
+px; }
+
+.prose :where(h4 + *):not(:where([class~=3D"not-prose"] *)) { margin-top: 0=
+px; }
+
+.prose :where(thead th:first-child):not(:where([class~=3D"not-prose"] *)) {=
+ padding-left: 0px; }
+
+.prose :where(thead th:last-child):not(:where([class~=3D"not-prose"] *)) { =
+padding-right: 0px; }
+
+.prose :where(tbody td:first-child):not(:where([class~=3D"not-prose"] *)) {=
+ padding-left: 0px; }
+
+.prose :where(tbody td:last-child):not(:where([class~=3D"not-prose"] *)) { =
+padding-right: 0px; }
+
+.prose > :where(:first-child):not(:where([class~=3D"not-prose"] *)) { margi=
+n-top: 0px; }
+
+.prose > :where(:last-child):not(:where([class~=3D"not-prose"] *)) { margin=
+-bottom: 0px; }
+
+.prose-invert { --tw-prose-body: var(--tw-prose-invert-body); --tw-prose-he=
+adings: var(--tw-prose-invert-headings); --tw-prose-lead: var(--tw-prose-in=
+vert-lead); --tw-prose-links: var(--tw-prose-invert-links); --tw-prose-bold=
+: var(--tw-prose-invert-bold); --tw-prose-counters: var(--tw-prose-invert-c=
+ounters); --tw-prose-bullets: var(--tw-prose-invert-bullets); --tw-prose-hr=
+: var(--tw-prose-invert-hr); --tw-prose-quotes: var(--tw-prose-invert-quote=
+s); --tw-prose-quote-borders: var(--tw-prose-invert-quote-borders); --tw-pr=
+ose-captions: var(--tw-prose-invert-captions); --tw-prose-code: var(--tw-pr=
+ose-invert-code); --tw-prose-pre-code: var(--tw-prose-invert-pre-code); --t=
+w-prose-pre-bg: var(--tw-prose-invert-pre-bg); --tw-prose-th-borders: var(-=
+-tw-prose-invert-th-borders); --tw-prose-td-borders: var(--tw-prose-invert-=
+td-borders); }
+
+nav::before { content: ""; position: absolute; right: 0px; top: 0px; height=
+: 16rem; width: 16rem; background: rgb(74, 97, 221); opacity: 0.3; filter: =
+blur(100px); z-index: -1; }
+
+.btn-primary { display: inline-block; border-radius: 0.125rem; --tw-bg-opac=
+ity: 0.25; background-image: linear-gradient(to right,var(--tw-gradient-sto=
+ps)); --tw-gradient-from: #ec4899 var(--tw-gradient-from-position); --tw-gr=
+adient-stops: var(--tw-gradient-from),var(--tw-gradient-to); --tw-gradient-=
+to: #f87171 var(--tw-gradient-to-position); padding: 0.75rem 2.5rem; --tw-t=
+ext-opacity: 1; color: rgb(255 255 255/var(--tw-text-opacity)); text-decora=
+tion-line: none; }
+
+.btn-primary:hover { --tw-text-opacity: 1; color: rgb(252 231 243/var(--tw-=
+text-opacity)); }
+
+.btn-secondary { display: inline-block; border-radius: 0.125rem; --tw-bg-op=
+acity: 1; background-color: rgb(79 70 229/var(--tw-bg-opacity)); padding: 0=
+.5rem 1rem; --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-opac=
+ity)); text-decoration-line: none; }
+
+.btn-secondary:hover { --tw-text-opacity: 1; color: rgb(224 231 255/var(--t=
+w-text-opacity)); }
+
+.btn-secondary:focus { outline: transparent solid 2px; outline-offset: 2px;=
+ }
+
+.form-control { height: 3rem; width: 100%; border-radius: 0.125rem; --tw-bg=
+-opacity: 1; background-color: rgb(241 245 249/var(--tw-bg-opacity)); paddi=
+ng: 0.5rem 0.75rem; font-size: 0.875rem; line-height: 1.25rem; --tw-text-op=
+acity: 1; color: rgb(15 23 42/var(--tw-text-opacity)); }
+
+.form-control::placeholder { --tw-placeholder-opacity: 1; color: rgb(100 11=
+6 139/var(--tw-placeholder-opacity)); }
+
+.form-control:focus { outline: transparent solid 2px; outline-offset: 2px; =
+}
+
+.codehighlight { background-color: rgb(28, 38, 60) !important; padding-left=
+: 2rem !important; }
+
+.animated-form code { font-size: 14px !important; white-space: pre-wrap !im=
+portant; }
+
+@media (min-width: 768px) {
+  .animated-form .language-xml span:nth-child(9) { display: inline-flex; ov=
+erflow: hidden; animation: 5s steps(32) 0s 1 normal forwards running typeit=
+; width: 0px; }
+  .animated-form .language-xml span:nth-child(38) { display: inline-flex; o=
+verflow: hidden; animation: 3s steps(20) 5s 1 normal forwards running typei=
+t2; width: 0px; }
+}
+
+@-webkit-keyframes typeit {=20
+  100% { width: 270px; }
+}
+
+@keyframes typeit {=20
+  100% { width: 270px; }
+}
+
+@-webkit-keyframes typeit2 {=20
+  100% { width: 170px; }
+}
+
+@keyframes typeit2 {=20
+  100% { width: 170px; }
+}
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margi=
+n: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: now=
+rap; border-width: 0px; }
+
+.pointer-events-none { pointer-events: none; }
+
+.static { position: static; }
+
+.fixed { position: fixed; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.inset-0 { inset: 0px; }
+
+.-left-\[15px\] { left: -15px; }
+
+.-top-3 { top: -0.75rem; }
+
+.-top-\[50px\] { top: -50px; }
+
+.bottom-0 { bottom: 0px; }
+
+.bottom-10 { bottom: 2.5rem; }
+
+.bottom-5 { bottom: 1.25rem; }
+
+.bottom-7 { bottom: 1.75rem; }
+
+.left-0 { left: 0px; }
+
+.left-full { left: 100%; }
+
+.right-0 { right: 0px; }
+
+.right-5 { right: 1.25rem; }
+
+.right-7 { right: 1.75rem; }
+
+.top-0 { top: 0px; }
+
+.top-7 { top: 1.75rem; }
+
+.z-0 { z-index: 0; }
+
+.z-10 { z-index: 10; }
+
+.z-40 { z-index: 40; }
+
+.z-50 { z-index: 50; }
+
+.m-7 { margin: 1.75rem; }
+
+.m-px { margin: 1px; }
+
+.mx-3 { margin-left: 0.75rem; margin-right: 0.75rem; }
+
+.mx-5 { margin-left: 1.25rem; margin-right: 1.25rem; }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.my-10 { margin-top: 2.5rem; margin-bottom: 2.5rem; }
+
+.my-12 { margin-top: 3rem; margin-bottom: 3rem; }
+
+.my-14 { margin-top: 3.5rem; margin-bottom: 3.5rem; }
+
+.my-16 { margin-top: 4rem; margin-bottom: 4rem; }
+
+.my-20 { margin-top: 5rem; margin-bottom: 5rem; }
+
+.my-3 { margin-top: 0.75rem; margin-bottom: 0.75rem; }
+
+.my-32 { margin-top: 8rem; margin-bottom: 8rem; }
+
+.my-4 { margin-top: 1rem; margin-bottom: 1rem; }
+
+.my-5 { margin-top: 1.25rem; margin-bottom: 1.25rem; }
+
+.my-7 { margin-top: 1.75rem; margin-bottom: 1.75rem; }
+
+.-mt-3 { margin-top: -0.75rem; }
+
+.-mt-6 { margin-top: -1.5rem; }
+
+.mb-1 { margin-bottom: 0.25rem; }
+
+.mb-10 { margin-bottom: 2.5rem; }
+
+.mb-14 { margin-bottom: 3.5rem; }
+
+.mb-16 { margin-bottom: 4rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.mb-20 { margin-bottom: 5rem; }
+
+.mb-3 { margin-bottom: 0.75rem; }
+
+.mb-32 { margin-bottom: 8rem; }
+
+.mb-4 { margin-bottom: 1rem; }
+
+.mb-5 { margin-bottom: 1.25rem; }
+
+.mb-6 { margin-bottom: 1.5rem; }
+
+.ml-1 { margin-left: 0.25rem; }
+
+.ml-2 { margin-left: 0.5rem; }
+
+.ml-auto { margin-left: auto; }
+
+.mr-2 { margin-right: 0.5rem; }
+
+.mr-3 { margin-right: 0.75rem; }
+
+.mt-1 { margin-top: 0.25rem; }
+
+.mt-10 { margin-top: 2.5rem; }
+
+.mt-14 { margin-top: 3.5rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.mt-20 { margin-top: 5rem; }
+
+.mt-32 { margin-top: 8rem; }
+
+.mt-4 { margin-top: 1rem; }
+
+.mt-5 { margin-top: 1.25rem; }
+
+.mt-6 { margin-top: 1.5rem; }
+
+.block { display: block; }
+
+.inline-block { display: inline-block; }
+
+.flex { display: flex; }
+
+.inline-flex { display: inline-flex; }
+
+.grid { display: grid; }
+
+.contents { display: contents; }
+
+.hidden { display: none; }
+
+.aspect-video { aspect-ratio: 16 / 9; }
+
+.h-14 { height: 3.5rem; }
+
+.h-16 { height: 4rem; }
+
+.h-24 { height: 6rem; }
+
+.h-28 { height: 7rem; }
+
+.h-32 { height: 8rem; }
+
+.h-36 { height: 9rem; }
+
+.h-5 { height: 1.25rem; }
+
+.h-6 { height: 1.5rem; }
+
+.h-72 { height: 18rem; }
+
+.h-\[140px\] { height: 140px; }
+
+.h-\[28px\] { height: 28px; }
+
+.h-\[32px\] { height: 32px; }
+
+.h-full { height: 100%; }
+
+.h-screen { height: 100vh; }
+
+.min-h-\[250px\] { min-height: 250px; }
+
+.min-h-\[600px\] { min-height: 600px; }
+
+.min-h-screen { min-height: 100vh; }
+
+.w-10 { width: 2.5rem; }
+
+.w-12 { width: 3rem; }
+
+.w-14 { width: 3.5rem; }
+
+.w-24 { width: 6rem; }
+
+.w-5 { width: 1.25rem; }
+
+.w-6 { width: 1.5rem; }
+
+.w-8 { width: 2rem; }
+
+.w-80 { width: 20rem; }
+
+.w-96 { width: 24rem; }
+
+.w-\[140px\] { width: 140px; }
+
+.w-\[28px\] { width: 28px; }
+
+.w-\[60px\] { width: 60px; }
+
+.w-full { width: 100%; }
+
+.min-w-max { min-width: max-content; }
+
+.max-w-2xl { max-width: 42rem; }
+
+.max-w-3xl { max-width: 48rem; }
+
+.max-w-5xl { max-width: 64rem; }
+
+.max-w-full { max-width: 100%; }
+
+.max-w-lg { max-width: 32rem; }
+
+.max-w-md { max-width: 28rem; }
+
+.max-w-none { max-width: none; }
+
+.max-w-screen-lg { max-width: 1024px; }
+
+.max-w-screen-md { max-width: 768px; }
+
+.max-w-screen-xl { max-width: 1280px; }
+
+.max-w-xl { max-width: 36rem; }
+
+.flex-1 { flex: 1 1 0%; }
+
+.flex-shrink-0 { flex-shrink: 0; }
+
+.flex-grow { flex-grow: 1; }
+
+.translate-x-0 { --tw-translate-x: 0px; }
+
+.translate-x-0, .translate-x-7 { transform: translate(var(--tw-translate-x)=
+,var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) sk=
+ewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); =
+}
+
+.translate-x-7 { --tw-translate-x: 1.75rem; }
+
+.translate-y-5 { --tw-translate-y: 1.25rem; }
+
+.-rotate-45, .translate-y-5 { transform: translate(var(--tw-translate-x),va=
+r(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY=
+(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.-rotate-45 { --tw-rotate: -45deg; }
+
+.rotate-45 { --tw-rotate: 45deg; }
+
+.rotate-45, .scale-75 { transform: translate(var(--tw-translate-x),var(--tw=
+-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(-=
+-tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.scale-75 { --tw-scale-x: .75; --tw-scale-y: .75; }
+
+.transform { transform: translate(var(--tw-translate-x),var(--tw-translate-=
+y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)=
+) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+@-webkit-keyframes spin {=20
+  100% { transform: rotate(1turn); }
+}
+
+@keyframes spin {=20
+  100% { transform: rotate(1turn); }
+}
+
+.animate-spin { animation: 1s linear 0s infinite normal none running spin; =
+}
+
+.cursor-pointer { cursor: pointer; }
+
+.list-disc { list-style-type: disc; }
+
+.list-none { list-style-type: none; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+
+.flex-col { flex-direction: column; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.place-items-center { place-items: center; }
+
+.items-center { align-items: center; }
+
+.justify-end { justify-content: flex-end; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-10 { gap: 2.5rem; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-3 { gap: 0.75rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-5 { gap: 1.25rem; }
+
+.gap-x-14 { column-gap: 3.5rem; }
+
+.gap-x-16 { column-gap: 4rem; }
+
+.gap-x-5 { column-gap: 1.25rem; }
+
+.gap-y-16 { row-gap: 4rem; }
+
+.gap-y-8 { row-gap: 2rem; }
+
+.space-x-1\.5 > :not([hidden]) ~ :not([hidden]) { --tw-space-x-reverse: 0; =
+margin-right: calc(.375rem * var(--tw-space-x-reverse)); margin-left: calc(=
+.375rem * calc(1 - var(--tw-space-x-reverse))); }
+
+.space-x-2 > :not([hidden]) ~ :not([hidden]) { --tw-space-x-reverse: 0; mar=
+gin-right: calc(.5rem * var(--tw-space-x-reverse)); margin-left: calc(.5rem=
+ * calc(1 - var(--tw-space-x-reverse))); }
+
+.space-x-3 > :not([hidden]) ~ :not([hidden]) { --tw-space-x-reverse: 0; mar=
+gin-right: calc(.75rem * var(--tw-space-x-reverse)); margin-left: calc(.75r=
+em * calc(1 - var(--tw-space-x-reverse))); }
+
+.space-y-4 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse))); margin-bottom: c=
+alc(1rem * var(--tw-space-y-reverse)); }
+
+.divide-y > :not([hidden]) ~ :not([hidden]) { --tw-divide-y-reverse: 0; bor=
+der-top-width: calc(1px * calc(1 - var(--tw-divide-y-reverse))); border-bot=
+tom-width: calc(1px * var(--tw-divide-y-reverse)); }
+
+.divide-gray-800 > :not([hidden]) ~ :not([hidden]) { --tw-divide-opacity: 1=
+; border-color: rgb(30 41 59/var(--tw-divide-opacity)); }
+
+.self-center { align-self: center; }
+
+.overflow-auto { overflow: auto; }
+
+.overflow-hidden { overflow: hidden; }
+
+.overflow-x-auto { overflow-x: auto; }
+
+.overflow-x-hidden { overflow-x: hidden; }
+
+.whitespace-nowrap { white-space: nowrap; }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
+
+.rounded { border-radius: 0.25rem; }
+
+.rounded-2xl { border-radius: 1rem; }
+
+.rounded-full { border-radius: 9999px; }
+
+.rounded-lg { border-radius: 0.5rem; }
+
+.rounded-md { border-radius: 0.375rem; }
+
+.rounded-sm { border-radius: 0.125rem; }
+
+.border { border-width: 1px; }
+
+.border-0 { border-width: 0px; }
+
+.border-2 { border-width: 2px; }
+
+.border-b { border-bottom-width: 1px; }
+
+.border-t { border-top-width: 1px; }
+
+.border-gray-200 { --tw-border-opacity: 1; border-color: rgb(226 232 240/va=
+r(--tw-border-opacity)); }
+
+.border-gray-300 { --tw-border-opacity: 1; border-color: rgb(203 213 225/va=
+r(--tw-border-opacity)); }
+
+.border-gray-600 { --tw-border-opacity: 1; border-color: rgb(71 85 105/var(=
+--tw-border-opacity)); }
+
+.border-gray-700 { --tw-border-opacity: 1; border-color: rgb(51 65 85/var(-=
+-tw-border-opacity)); }
+
+.border-gray-800 { --tw-border-opacity: 1; border-color: rgb(30 41 59/var(-=
+-tw-border-opacity)); }
+
+.border-indigo-300 { --tw-border-opacity: 1; border-color: rgb(165 180 252/=
+var(--tw-border-opacity)); }
+
+.border-indigo-500 { --tw-border-opacity: 1; border-color: rgb(99 102 241/v=
+ar(--tw-border-opacity)); }
+
+.border-indigo-800 { --tw-border-opacity: 1; border-color: rgb(55 48 163/va=
+r(--tw-border-opacity)); }
+
+.border-pink-500 { --tw-border-opacity: 1; border-color: rgb(236 72 153/var=
+(--tw-border-opacity)); }
+
+.border-red-600 { --tw-border-opacity: 1; border-color: rgb(220 38 38/var(-=
+-tw-border-opacity)); }
+
+.bg-black\/20 { background-color: rgba(0, 0, 0, 0.2); }
+
+.bg-black\/40 { background-color: rgba(0, 0, 0, 0.4); }
+
+.bg-black\/50 { background-color: rgba(0, 0, 0, 0.5); }
+
+.bg-blue-600 { --tw-bg-opacity: 1; background-color: rgb(37 99 235/var(--tw=
+-bg-opacity)); }
+
+.bg-blue-800 { --tw-bg-opacity: 1; background-color: rgb(30 64 175/var(--tw=
+-bg-opacity)); }
+
+.bg-gray-50 { --tw-bg-opacity: 1; background-color: rgb(248 250 252/var(--t=
+w-bg-opacity)); }
+
+.bg-gray-600 { --tw-bg-opacity: 1; background-color: rgb(71 85 105/var(--tw=
+-bg-opacity)); }
+
+.bg-gray-700 { --tw-bg-opacity: 1; background-color: rgb(51 65 85/var(--tw-=
+bg-opacity)); }
+
+.bg-gray-800 { --tw-bg-opacity: 1; background-color: rgb(30 41 59/var(--tw-=
+bg-opacity)); }
+
+.bg-green-800 { --tw-bg-opacity: 1; background-color: rgb(22 101 52/var(--t=
+w-bg-opacity)); }
+
+.bg-indigo-200 { --tw-bg-opacity: 1; background-color: rgb(199 210 254/var(=
+--tw-bg-opacity)); }
+
+.bg-indigo-500 { --tw-bg-opacity: 1; background-color: rgb(99 102 241/var(-=
+-tw-bg-opacity)); }
+
+.bg-indigo-600 { --tw-bg-opacity: 1; background-color: rgb(79 70 229/var(--=
+tw-bg-opacity)); }
+
+.bg-indigo-700 { --tw-bg-opacity: 1; background-color: rgb(67 56 202/var(--=
+tw-bg-opacity)); }
+
+.bg-indigo-900\/30 { background-color: rgba(49, 46, 129, 0.3); }
+
+.bg-indigo-950 { --tw-bg-opacity: 1; background-color: rgb(30 27 75/var(--t=
+w-bg-opacity)); }
+
+.bg-orange-200 { --tw-bg-opacity: 1; background-color: rgb(254 215 170/var(=
+--tw-bg-opacity)); }
+
+.bg-pink-500 { --tw-bg-opacity: 1; background-color: rgb(236 72 153/var(--t=
+w-bg-opacity)); }
+
+.bg-pink-600 { --tw-bg-opacity: 1; background-color: rgb(219 39 119/var(--t=
+w-bg-opacity)); }
+
+.bg-slate-700 { --tw-bg-opacity: 1; background-color: rgb(51 65 85/var(--tw=
+-bg-opacity)); }
+
+.bg-slate-900 { --tw-bg-opacity: 1; background-color: rgb(15 23 42/var(--tw=
+-bg-opacity)); }
+
+.bg-teal-700 { --tw-bg-opacity: 1; background-color: rgb(15 118 110/var(--t=
+w-bg-opacity)); }
+
+.bg-teal-900 { --tw-bg-opacity: 1; background-color: rgb(19 78 74/var(--tw-=
+bg-opacity)); }
+
+.bg-truegray-900 { --tw-bg-opacity: 1; background-color: rgb(17 24 39/var(-=
+-tw-bg-opacity)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-=
+bg-opacity)); }
+
+.bg-opacity-10 { --tw-bg-opacity: 0.1; }
+
+.bg-opacity-25 { --tw-bg-opacity: 0.25; }
+
+.bg-opacity-30 { --tw-bg-opacity: 0.3; }
+
+.bg-opacity-40 { --tw-bg-opacity: 0.4; }
+
+.bg-opacity-50 { --tw-bg-opacity: 0.5; }
+
+.bg-opacity-75 { --tw-bg-opacity: 0.75; }
+
+.bg-gradient-to-br { background-image: linear-gradient(to bottom right,var(=
+--tw-gradient-stops)); }
+
+.bg-gradient-to-r { background-image: linear-gradient(to right,var(--tw-gra=
+dient-stops)); }
+
+.from-fuchsia-600 { --tw-gradient-from: #c026d3 var(--tw-gradient-from-posi=
+tion); --tw-gradient-to: rgba(192,38,211,0) var(--tw-gradient-to-position);=
+ --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to); }
+
+.from-pink-500 { --tw-gradient-from: #ec4899 var(--tw-gradient-from-positio=
+n); --tw-gradient-to: rgba(236,72,153,0) var(--tw-gradient-to-position); --=
+tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to); }
+
+.to-indigo-500 { --tw-gradient-to: #6366f1 var(--tw-gradient-to-position); =
+}
+
+.to-red-400 { --tw-gradient-to: #f87171 var(--tw-gradient-to-position); }
+
+.fill-current { fill: currentcolor; }
+
+.object-cover { object-fit: cover; }
+
+.object-top { object-position: center top; }
+
+.p-0\.5 { padding: 0.125rem; }
+
+.p-1 { padding: 0.25rem; }
+
+.p-10 { padding: 2.5rem; }
+
+.p-4 { padding: 1rem; }
+
+.p-5 { padding: 1.25rem; }
+
+.p-6 { padding: 1.5rem; }
+
+.p-7 { padding: 1.75rem; }
+
+.p-8 { padding: 2rem; }
+
+.px-1 { padding-left: 0.25rem; padding-right: 0.25rem; }
+
+.px-10 { padding-left: 2.5rem; padding-right: 2.5rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+
+.px-8 { padding-left: 2rem; padding-right: 2rem; }
+
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+.py-1\.5 { padding-top: 0.375rem; padding-bottom: 0.375rem; }
+
+.py-14 { padding-top: 3.5rem; padding-bottom: 3.5rem; }
+
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+
+.py-2\.5 { padding-top: 0.625rem; padding-bottom: 0.625rem; }
+
+.py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+
+.py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+
+.py-5 { padding-top: 1.25rem; padding-bottom: 1.25rem; }
+
+.py-7 { padding-top: 1.75rem; padding-bottom: 1.75rem; }
+
+.pb-1 { padding-bottom: 0.25rem; }
+
+.pb-3 { padding-bottom: 0.75rem; }
+
+.pb-5 { padding-bottom: 1.25rem; }
+
+.pl-0 { padding-left: 0px; }
+
+.pl-3 { padding-left: 0.75rem; }
+
+.pt-16 { padding-top: 4rem; }
+
+.pt-2 { padding-top: 0.5rem; }
+
+.pt-3 { padding-top: 0.75rem; }
+
+.pt-4 { padding-top: 1rem; }
+
+.pt-6 { padding-top: 1.5rem; }
+
+.pt-7 { padding-top: 1.75rem; }
+
+.text-center { text-align: center; }
+
+.text-start { text-align: start; }
+
+.align-baseline { vertical-align: baseline; }
+
+.font-stock { font-family: ui-sans-serif, system-ui, sans-serif, "Apple Col=
+or Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-bold { font-weight: 700; }
+
+.font-medium { font-weight: 500; }
+
+.font-semibold { font-weight: 600; }
+
+.uppercase { text-transform: uppercase; }
+
+.italic { font-style: italic; }
+
+.leading-6 { line-height: 1.5rem; }
+
+.leading-7 { line-height: 1.75rem; }
+
+.leading-none { line-height: 1; }
+
+.leading-relaxed { line-height: 1.625; }
+
+.tracking-tight { letter-spacing: -0.025em; }
+
+.tracking-wide { letter-spacing: 0.025em; }
+
+.tracking-wider { letter-spacing: 0.05em; }
+
+.text-black { --tw-text-opacity: 1; color: rgb(0 0 0/var(--tw-text-opacity)=
+); }
+
+.text-gray-200 { --tw-text-opacity: 1; color: rgb(226 232 240/var(--tw-text=
+-opacity)); }
+
+.text-gray-300 { --tw-text-opacity: 1; color: rgb(203 213 225/var(--tw-text=
+-opacity)); }
+
+.text-gray-400 { --tw-text-opacity: 1; color: rgb(148 163 184/var(--tw-text=
+-opacity)); }
+
+.text-gray-500 { --tw-text-opacity: 1; color: rgb(100 116 139/var(--tw-text=
+-opacity)); }
+
+.text-gray-600 { --tw-text-opacity: 1; color: rgb(71 85 105/var(--tw-text-o=
+pacity)); }
+
+.text-gray-700 { --tw-text-opacity: 1; color: rgb(51 65 85/var(--tw-text-op=
+acity)); }
+
+.text-gray-800 { --tw-text-opacity: 1; color: rgb(30 41 59/var(--tw-text-op=
+acity)); }
+
+.text-gray-900 { --tw-text-opacity: 1; color: rgb(15 23 42/var(--tw-text-op=
+acity)); }
+
+.text-green-300 { --tw-text-opacity: 1; color: rgb(134 239 172/var(--tw-tex=
+t-opacity)); }
+
+.text-green-500 { --tw-text-opacity: 1; color: rgb(34 197 94/var(--tw-text-=
+opacity)); }
+
+.text-indigo-100 { --tw-text-opacity: 1; color: rgb(224 231 255/var(--tw-te=
+xt-opacity)); }
+
+.text-indigo-200 { --tw-text-opacity: 1; color: rgb(199 210 254/var(--tw-te=
+xt-opacity)); }
+
+.text-indigo-300 { --tw-text-opacity: 1; color: rgb(165 180 252/var(--tw-te=
+xt-opacity)); }
+
+.text-indigo-400 { --tw-text-opacity: 1; color: rgb(129 140 248/var(--tw-te=
+xt-opacity)); }
+
+.text-indigo-500 { --tw-text-opacity: 1; color: rgb(99 102 241/var(--tw-tex=
+t-opacity)); }
+
+.text-indigo-700 { --tw-text-opacity: 1; color: rgb(67 56 202/var(--tw-text=
+-opacity)); }
+
+.text-orange-900 { --tw-text-opacity: 1; color: rgb(124 45 18/var(--tw-text=
+-opacity)); }
+
+.text-red-300 { --tw-text-opacity: 1; color: rgb(252 165 165/var(--tw-text-=
+opacity)); }
+
+.text-red-400 { --tw-text-opacity: 1; color: rgb(248 113 113/var(--tw-text-=
+opacity)); }
+
+.text-red-500 { --tw-text-opacity: 1; color: rgb(239 68 68/var(--tw-text-op=
+acity)); }
+
+.text-slate-300 { --tw-text-opacity: 1; color: rgb(203 213 225/var(--tw-tex=
+t-opacity)); }
+
+.text-slate-800 { --tw-text-opacity: 1; color: rgb(30 41 59/var(--tw-text-o=
+pacity)); }
+
+.text-truegray-400 { --tw-text-opacity: 1; color: rgb(156 163 175/var(--tw-=
+text-opacity)); }
+
+.text-truegray-500 { --tw-text-opacity: 1; color: rgb(107 114 128/var(--tw-=
+text-opacity)); }
+
+.text-truegray-900 { --tw-text-opacity: 1; color: rgb(17 24 39/var(--tw-tex=
+t-opacity)); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-op=
+acity)); }
+
+.text-opacity-50 { --tw-text-opacity: 0.5; }
+
+.text-opacity-60 { --tw-text-opacity: 0.6; }
+
+.text-opacity-70 { --tw-text-opacity: 0.7; }
+
+.text-opacity-75 { --tw-text-opacity: 0.75; }
+
+.text-opacity-90 { --tw-text-opacity: 0.9; }
+
+.underline { text-decoration-line: underline; }
+
+.no-underline { text-decoration-line: none; }
+
+.placeholder-gray-300::placeholder { --tw-placeholder-opacity: 1; color: rg=
+b(203 213 225/var(--tw-placeholder-opacity)); }
+
+.opacity-0 { opacity: 0; }
+
+.opacity-20 { opacity: 0.2; }
+
+.opacity-25 { opacity: 0.25; }
+
+.opacity-50 { opacity: 0.5; }
+
+.opacity-75 { opacity: 0.75; }
+
+.opacity-80 { opacity: 0.8; }
+
+.shadow-2xl { --tw-shadow: 0 25px 50px -12px rgba(0,0,0,.25); --tw-shadow-c=
+olored: 0 25px 50px -12px var(--tw-shadow-color); }
+
+.shadow-2xl, .shadow-lg { box-shadow: var(--tw-ring-offset-shadow,0 0 #0000=
+),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+.shadow-lg { --tw-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -4px rg=
+ba(0,0,0,.1); --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),=
+0 4px 6px -4px var(--tw-shadow-color); }
+
+.shadow-md { --tw-shadow: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -2px rgba=
+(0,0,0,.1); --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2p=
+x 4px -2px var(--tw-shadow-color); }
+
+.shadow-md, .shadow-sm { box-shadow: var(--tw-ring-offset-shadow,0 0 #0000)=
+,var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+.shadow-sm { --tw-shadow: 0 1px 2px 0 rgba(0,0,0,.05); --tw-shadow-colored:=
+ 0 1px 2px 0 var(--tw-shadow-color); }
+
+.outline { outline-style: solid; }
+
+.ring-0 { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring=
+-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: var(--tw-ring=
+-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);=
+ box-shadow: var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-sh=
+adow,0 0 #0000); }
+
+.ring-indigo-100 { --tw-ring-opacity: 1; --tw-ring-color: rgb(224 231 255/v=
+ar(--tw-ring-opacity)); }
+
+.ring-red-100 { --tw-ring-opacity: 1; --tw-ring-color: rgb(254 226 226/var(=
+--tw-ring-opacity)); }
+
+.blur { --tw-blur: blur(8px); }
+
+.blur, .blur-\[100px\] { filter: var(--tw-blur) var(--tw-brightness) var(--=
+tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(=
+--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); }
+
+.blur-\[100px\] { --tw-blur: blur(100px); }
+
+.filter { filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) va=
+r(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) =
+var(--tw-sepia) var(--tw-drop-shadow); }
+
+.backdrop-blur { --tw-backdrop-blur: blur(8px); backdrop-filter: var(--tw-b=
+ackdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var=
+(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-i=
+nvert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-back=
+drop-sepia); }
+
+.transition { transition-property: color, background-color, border-color, t=
+ext-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,=
+ backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter; t=
+ransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duratio=
+n: 0.15s; }
+
+.transition-all { transition-property: all; transition-timing-function: cub=
+ic-bezier(0.4, 0, 0.2, 1); transition-duration: 0.15s; }
+
+.transition-colors { transition-property: color, background-color, border-c=
+olor, text-decoration-color, fill, stroke, -webkit-text-decoration-color; t=
+ransition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duratio=
+n: 0.15s; }
+
+.duration-100 { transition-duration: 0.1s; }
+
+.duration-200 { transition-duration: 0.2s; }
+
+.duration-300 { transition-duration: 0.3s; }
+
+.duration-500 { transition-duration: 0.5s; }
+
+.ease-in-out { transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.backdrop-blur { backdrop-filter: blur(20px); }
+
+@media (min-width: 1024px) {
+  .lg\:prose-xl { font-size: 1.25rem; line-height: 1.8; }
+  .lg\:prose-xl :where(p):not(:where([class~=3D"not-prose"] *)) { margin-to=
+p: 1.2em; margin-bottom: 1.2em; }
+  .lg\:prose-xl :where([class~=3D"lead"]):not(:where([class~=3D"not-prose"]=
+ *)) { font-size: 1.2em; line-height: 1.5; margin-top: 1em; margin-bottom: =
+1em; }
+  .lg\:prose-xl :where(blockquote):not(:where([class~=3D"not-prose"] *)) { =
+margin-top: 1.6em; margin-bottom: 1.6em; padding-left: 1.06667em; }
+  .lg\:prose-xl :where(h1):not(:where([class~=3D"not-prose"] *)) { font-siz=
+e: 2.8em; margin-top: 0px; margin-bottom: 0.857143em; line-height: 1; }
+  .lg\:prose-xl :where(h2):not(:where([class~=3D"not-prose"] *)) { font-siz=
+e: 1.8em; margin-top: 1.55556em; margin-bottom: 0.888889em; line-height: 1.=
+11111; }
+  .lg\:prose-xl :where(h3):not(:where([class~=3D"not-prose"] *)) { font-siz=
+e: 1.5em; margin-top: 1.6em; margin-bottom: 0.666667em; line-height: 1.3333=
+3; }
+  .lg\:prose-xl :where(h4):not(:where([class~=3D"not-prose"] *)) { margin-t=
+op: 1.8em; margin-bottom: 0.6em; line-height: 1.6; }
+  .lg\:prose-xl :where(img):not(:where([class~=3D"not-prose"] *)) { margin-=
+top: 2em; margin-bottom: 2em; }
+  .lg\:prose-xl :where(video):not(:where([class~=3D"not-prose"] *)) { margi=
+n-top: 2em; margin-bottom: 2em; }
+  .lg\:prose-xl :where(figure):not(:where([class~=3D"not-prose"] *)) { marg=
+in-top: 2em; margin-bottom: 2em; }
+  .lg\:prose-xl :where(figure > *):not(:where([class~=3D"not-prose"] *)) { =
+margin-top: 0px; margin-bottom: 0px; }
+  .lg\:prose-xl :where(figcaption):not(:where([class~=3D"not-prose"] *)) { =
+font-size: 0.9em; line-height: 1.55556; margin-top: 1em; }
+  .lg\:prose-xl :where(code):not(:where([class~=3D"not-prose"] *)) { font-s=
+ize: 0.9em; }
+  .lg\:prose-xl :where(h2 code):not(:where([class~=3D"not-prose"] *)) { fon=
+t-size: 0.861111em; }
+  .lg\:prose-xl :where(h3 code):not(:where([class~=3D"not-prose"] *)) { fon=
+t-size: 0.9em; }
+  .lg\:prose-xl :where(pre):not(:where([class~=3D"not-prose"] *)) { font-si=
+ze: 0.9em; line-height: 1.77778; margin-top: 2em; margin-bottom: 2em; borde=
+r-radius: 0.5rem; padding: 1.11111em 1.33333em; }
+  .lg\:prose-xl :where(ol):not(:where([class~=3D"not-prose"] *)) { padding-=
+left: 1.6em; }
+  .lg\:prose-xl :where(ul):not(:where([class~=3D"not-prose"] *)) { padding-=
+left: 1.6em; }
+  .lg\:prose-xl :where(li):not(:where([class~=3D"not-prose"] *)) { margin-t=
+op: 0.6em; margin-bottom: 0.6em; }
+  .lg\:prose-xl :where(ol > li):not(:where([class~=3D"not-prose"] *)) { pad=
+ding-left: 0.4em; }
+  .lg\:prose-xl :where(ul > li):not(:where([class~=3D"not-prose"] *)) { pad=
+ding-left: 0.4em; }
+  .lg\:prose-xl > :where(ul > li p):not(:where([class~=3D"not-prose"] *)) {=
+ margin-top: 0.8em; margin-bottom: 0.8em; }
+  .lg\:prose-xl > :where(ul > li > :first-child):not(:where([class~=3D"not-=
+prose"] *)) { margin-top: 1.2em; }
+  .lg\:prose-xl > :where(ul > li > :last-child):not(:where([class~=3D"not-p=
+rose"] *)) { margin-bottom: 1.2em; }
+  .lg\:prose-xl > :where(ol > li > :first-child):not(:where([class~=3D"not-=
+prose"] *)) { margin-top: 1.2em; }
+  .lg\:prose-xl > :where(ol > li > :last-child):not(:where([class~=3D"not-p=
+rose"] *)) { margin-bottom: 1.2em; }
+  .lg\:prose-xl :where(ul ul, ul ol, ol ul, ol ol):not(:where([class~=3D"no=
+t-prose"] *)) { margin-top: 0.8em; margin-bottom: 0.8em; }
+  .lg\:prose-xl :where(hr):not(:where([class~=3D"not-prose"] *)) { margin-t=
+op: 2.8em; margin-bottom: 2.8em; }
+  .lg\:prose-xl :where(hr + *):not(:where([class~=3D"not-prose"] *)) { marg=
+in-top: 0px; }
+  .lg\:prose-xl :where(h2 + *):not(:where([class~=3D"not-prose"] *)) { marg=
+in-top: 0px; }
+  .lg\:prose-xl :where(h3 + *):not(:where([class~=3D"not-prose"] *)) { marg=
+in-top: 0px; }
+  .lg\:prose-xl :where(h4 + *):not(:where([class~=3D"not-prose"] *)) { marg=
+in-top: 0px; }
+  .lg\:prose-xl :where(table):not(:where([class~=3D"not-prose"] *)) { font-=
+size: 0.9em; line-height: 1.55556; }
+  .lg\:prose-xl :where(thead th):not(:where([class~=3D"not-prose"] *)) { pa=
+dding-right: 0.666667em; padding-bottom: 0.888889em; padding-left: 0.666667=
+em; }
+  .lg\:prose-xl :where(thead th:first-child):not(:where([class~=3D"not-pros=
+e"] *)) { padding-left: 0px; }
+  .lg\:prose-xl :where(thead th:last-child):not(:where([class~=3D"not-prose=
+"] *)) { padding-right: 0px; }
+  .lg\:prose-xl :where(tbody td):not(:where([class~=3D"not-prose"] *)) { pa=
+dding: 0.888889em 0.666667em; }
+  .lg\:prose-xl :where(tbody td:first-child):not(:where([class~=3D"not-pros=
+e"] *)) { padding-left: 0px; }
+  .lg\:prose-xl :where(tbody td:last-child):not(:where([class~=3D"not-prose=
+"] *)) { padding-right: 0px; }
+  .lg\:prose-xl > :where(:first-child):not(:where([class~=3D"not-prose"] *)=
+) { margin-top: 0px; }
+  .lg\:prose-xl > :where(:last-child):not(:where([class~=3D"not-prose"] *))=
+ { margin-bottom: 0px; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark\:prose-invert { --tw-prose-body: var(--tw-prose-invert-body); --tw-=
+prose-headings: var(--tw-prose-invert-headings); --tw-prose-lead: var(--tw-=
+prose-invert-lead); --tw-prose-links: var(--tw-prose-invert-links); --tw-pr=
+ose-bold: var(--tw-prose-invert-bold); --tw-prose-counters: var(--tw-prose-=
+invert-counters); --tw-prose-bullets: var(--tw-prose-invert-bullets); --tw-=
+prose-hr: var(--tw-prose-invert-hr); --tw-prose-quotes: var(--tw-prose-inve=
+rt-quotes); --tw-prose-quote-borders: var(--tw-prose-invert-quote-borders);=
+ --tw-prose-captions: var(--tw-prose-invert-captions); --tw-prose-code: var=
+(--tw-prose-invert-code); --tw-prose-pre-code: var(--tw-prose-invert-pre-co=
+de); --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg); --tw-prose-th-border=
+s: var(--tw-prose-invert-th-borders); --tw-prose-td-borders: var(--tw-prose=
+-invert-td-borders); }
+}
+
+.hover\:scale-105:hover { --tw-scale-x: 1.05; --tw-scale-y: 1.05; transform=
+: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-ro=
+tate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scal=
+e-x)) scaleY(var(--tw-scale-y)); }
+
+.hover\:bg-black\/40:hover { background-color: rgba(0, 0, 0, 0.4); }
+
+.hover\:bg-blue-700:hover { --tw-bg-opacity: 1; background-color: rgb(29 78=
+ 216/var(--tw-bg-opacity)); }
+
+.hover\:bg-indigo-600:hover { --tw-bg-opacity: 1; background-color: rgb(79 =
+70 229/var(--tw-bg-opacity)); }
+
+.hover\:bg-indigo-700:hover { --tw-bg-opacity: 1; background-color: rgb(67 =
+56 202/var(--tw-bg-opacity)); }
+
+.hover\:text-indigo-200:hover { --tw-text-opacity: 1; color: rgb(199 210 25=
+4/var(--tw-text-opacity)); }
+
+.hover\:text-indigo-500:hover { --tw-text-opacity: 1; color: rgb(99 102 241=
+/var(--tw-text-opacity)); }
+
+.hover\:text-white:hover { --tw-text-opacity: 1; color: rgb(255 255 255/var=
+(--tw-text-opacity)); }
+
+.hover\:underline:hover { text-decoration-line: underline; }
+
+.focus\:border-indigo-300:focus { --tw-border-opacity: 1; border-color: rgb=
+(165 180 252/var(--tw-border-opacity)); }
+
+.focus\:border-indigo-500:focus { --tw-border-opacity: 1; border-color: rgb=
+(99 102 241/var(--tw-border-opacity)); }
+
+.focus\:border-red-600:focus { --tw-border-opacity: 1; border-color: rgb(22=
+0 38 38/var(--tw-border-opacity)); }
+
+.focus\:bg-indigo-500\/90:focus { background-color: rgba(99, 102, 241, 0.9)=
+; }
+
+.focus\:bg-indigo-600:focus { --tw-bg-opacity: 1; background-color: rgb(79 =
+70 229/var(--tw-bg-opacity)); }
+
+.focus\:outline-none:focus { outline: transparent solid 2px; outline-offset=
+: 2px; }
+
+.focus\:ring:focus { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 va=
+r(--tw-ring-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: va=
+r(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-r=
+ing-color); }
+
+.focus\:ring-4:focus, .focus\:ring:focus { box-shadow: var(--tw-ring-offset=
+-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000); }
+
+.focus\:ring-4:focus { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 =
+var(--tw-ring-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: =
+var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw=
+-ring-color); }
+
+.focus\:ring-blue-200:focus { --tw-ring-opacity: 1; --tw-ring-color: rgb(19=
+1 219 254/var(--tw-ring-opacity)); }
+
+.focus\:ring-indigo-100:focus { --tw-ring-opacity: 1; --tw-ring-color: rgb(=
+224 231 255/var(--tw-ring-opacity)); }
+
+.focus\:ring-indigo-500:focus { --tw-ring-opacity: 1; --tw-ring-color: rgb(=
+99 102 241/var(--tw-ring-opacity)); }
+
+.focus-visible\:ring-2:focus-visible { --tw-ring-offset-shadow: var(--tw-ri=
+ng-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color); --=
+tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-=
+width)) var(--tw-ring-color); box-shadow: var(--tw-ring-offset-shadow),var(=
+--tw-ring-shadow),var(--tw-shadow,0 0 #0000); }
+
+.focus-visible\:ring-white:focus-visible { --tw-ring-opacity: 1; --tw-ring-=
+color: rgb(255 255 255/var(--tw-ring-opacity)); }
+
+.focus-visible\:ring-opacity-75:focus-visible { --tw-ring-opacity: 0.75; }
+
+.group[open] .group-open\:rotate-180 { --tw-rotate: 180deg; transform: tran=
+slate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate))=
+ skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) =
+scaleY(var(--tw-scale-y)); }
+
+.prose-headings\:font-medium :is(:where(h1, h2, h3, h4, th):not(:where([cla=
+ss~=3D"not-prose"] *))) { font-weight: 500; }
+
+@media (min-width: 640px) {
+  .sm\:bottom-\[100px\] { bottom: 100px; }
+  .sm\:left-auto { left: auto; }
+  .sm\:right-5 { right: 1.25rem; }
+  .sm\:top-auto { top: auto; }
+  .sm\:h-\[650px\] { height: 650px; }
+  .sm\:max-h-\[calc\(100vh-120px\)\] { max-height: calc(-120px + 100vh); }
+  .sm\:w-\[350px\] { width: 350px; }
+  .sm\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+}
+
+@media (min-width: 768px) {
+  .md\:m-5 { margin: 1.25rem; }
+  .md\:mx-auto { margin-left: auto; margin-right: auto; }
+  .md\:ml-5 { margin-left: 1.25rem; }
+  .md\:inline { display: inline; }
+  .md\:max-w-2xl { max-width: 42rem; }
+  .md\:max-w-lg { max-width: 32rem; }
+  .md\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .md\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .md\:flex-row { flex-direction: row; }
+  .md\:gap-5 { gap: 1.25rem; }
+  .md\:overflow-x-auto { overflow-x: auto; }
+  .md\:px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+  .md\:pr-12 { padding-right: 3rem; }
+  .md\:text-start { text-align: start; }
+  .md\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+  .md\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+  .md\:text-5xl { font-size: 3rem; line-height: 1; }
+  .md\:leading-snug { line-height: 1.375; }
+  .md\:leading-tight { line-height: 1.25; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:col-span-2 { grid-column: span 2 / span 2; }
+  .lg\:col-start-2 { grid-column-start: 2; }
+  .lg\:m-5 { margin: 1.25rem; }
+  .lg\:flex { display: flex; }
+  .lg\:hidden { display: none; }
+  .lg\:w-auto { width: auto; }
+  .lg\:max-w-full { max-width: 100%; }
+  .lg\:max-w-none { max-width: none; }
+  .lg\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .lg\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .lg\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0px, 1fr)); }
+  .lg\:items-center { align-items: center; }
+  .lg\:justify-between { justify-content: space-between; }
+  .lg\:px-0 { padding-left: 0px; padding-right: 0px; }
+  .lg\:px-5 { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .lg\:pt-0 { padding-top: 0px; }
+  .lg\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+  .lg\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+  .lg\:text-5xl { font-size: 3rem; line-height: 1; }
+  .lg\:text-6xl { font-size: 3.75rem; line-height: 1; }
+  .lg\:leading-normal { line-height: 1.5; }
+  .lg\:leading-snug { line-height: 1.375; }
+}
+
+@media (min-width: 1280px) {
+  .xl\:col-auto { grid-column: auto; }
+  .xl\:col-start-auto { grid-column-start: auto; }
+  .xl\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .xl\:px-0 { padding-left: 0px; padding-right: 0px; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark\:border-gray-600 { --tw-border-opacity: 1; border-color: rgb(71 85 =
+105/var(--tw-border-opacity)); }
+  .dark\:border-gray-700 { --tw-border-opacity: 1; border-color: rgb(51 65 =
+85/var(--tw-border-opacity)); }
+  .dark\:border-gray-900 { --tw-border-opacity: 1; border-color: rgb(15 23 =
+42/var(--tw-border-opacity)); }
+  .dark\:bg-gray-700 { --tw-bg-opacity: 1; background-color: rgb(51 65 85/v=
+ar(--tw-bg-opacity)); }
+  .dark\:bg-gray-800 { --tw-bg-opacity: 1; background-color: rgb(30 41 59/v=
+ar(--tw-bg-opacity)); }
+  .dark\:bg-gray-900 { --tw-bg-opacity: 1; background-color: rgb(15 23 42/v=
+ar(--tw-bg-opacity)); }
+  .dark\:bg-transparent { background-color: transparent; }
+  .dark\:text-gray-100 { --tw-text-opacity: 1; color: rgb(241 245 249/var(-=
+-tw-text-opacity)); }
+  .dark\:text-gray-200 { --tw-text-opacity: 1; color: rgb(226 232 240/var(-=
+-tw-text-opacity)); }
+  .dark\:text-gray-300 { --tw-text-opacity: 1; color: rgb(203 213 225/var(-=
+-tw-text-opacity)); }
+  .dark\:text-gray-400 { --tw-text-opacity: 1; color: rgb(148 163 184/var(-=
+-tw-text-opacity)); }
+  .dark\:text-green-300 { --tw-text-opacity: 1; color: rgb(134 239 172/var(=
+--tw-text-opacity)); }
+  .dark\:text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw=
+-text-opacity)); }
+  .dark\:placeholder-gray-500::placeholder { --tw-placeholder-opacity: 1; c=
+olor: rgb(100 116 139/var(--tw-placeholder-opacity)); }
+  .dark\:focus\:border-gray-500:focus { --tw-border-opacity: 1; border-colo=
+r: rgb(100 116 139/var(--tw-border-opacity)); }
+  .dark\:focus\:ring-blue-900:focus { --tw-ring-opacity: 1; --tw-ring-color=
+: rgb(30 58 138/var(--tw-ring-opacity)); }
+  .dark\:focus\:ring-gray-900:focus { --tw-ring-opacity: 1; --tw-ring-color=
+: rgb(15 23 42/var(--tw-ring-opacity)); }
+}
+
+.\[\&\:\:-webkit-details-marker\]\:hidden::-webkit-details-marker { display=
+: none; }
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web3forms.com/img/web3forms-logo.svg
+
+<svg width=3D"256" height=3D"47" viewBox=3D"0 0 256 47" fill=3D"none" xmlns=
+=3D"http://www.w3.org/2000/svg">
+<path d=3D"M60.9312 36L53.9575 10.1108H58.8354L64.2373 30.291L70.2354 10.11=
+08H74.2461L80.2261 30.291L85.6821 10.1108H90.542L83.5684 36H77.6426L72.2407=
+ 18.7285L66.8389 36H60.9312ZM109.62 26.5513L109.548 27.6714H95.7451C95.8294=
+ 29.3094 96.3473 30.568 97.2988 31.4473C98.2503 32.3145 99.4307 32.748 100.=
+84 32.748C101.827 32.748 102.695 32.5132 103.441 32.0435C104.2 31.5737 104.=
+778 30.8993 105.176 30.02L109.295 30.6885C108.681 32.471 107.621 33.8621 10=
+6.115 34.8618C104.61 35.8615 102.863 36.3613 100.876 36.3613C97.9733 36.361=
+3 95.6548 35.5182 93.9204 33.832C92.186 32.1458 91.3188 29.8213 91.3188 26.=
+8584C91.3188 23.9076 92.186 21.583 93.9204 19.8848C95.6668 18.1745 97.9372 =
+17.3193 100.731 17.3193C102.02 17.3193 103.194 17.512 104.254 17.8975C105.3=
+26 18.2708 106.26 18.8309 107.055 19.5776C107.862 20.3123 108.488 21.2759 1=
+08.934 22.4683C109.379 23.6486 109.608 25.0096 109.62 26.5513ZM100.75 20.57=
+13C99.4487 20.5713 98.3768 20.9146 97.5337 21.6011C96.6906 22.2756 96.1426 =
+23.2933 95.8896 24.6543H105.14C105.019 23.3294 104.562 22.3177 103.767 21.6=
+191C102.984 20.9206 101.978 20.5713 100.75 20.5713ZM124.29 17.3374C125.482 =
+17.3374 126.609 17.5602 127.668 18.0059C128.728 18.4515 129.65 19.0778 130.=
+433 19.8848C131.228 20.6917 131.854 21.6974 132.312 22.9019C132.781 24.1063=
+ 133.016 25.4312 133.016 26.8765C133.016 28.3218 132.787 29.6466 132.33 30.=
+8511C131.872 32.0555 131.246 33.0612 130.451 33.8682C129.656 34.6751 128.72=
+8 35.3014 127.668 35.7471C126.609 36.1927 125.482 36.4155 124.29 36.4155C12=
+2.965 36.4155 121.767 36.1385 120.695 35.5845C119.623 35.0304 118.828 34.25=
+96 118.31 33.272L118.184 36H113.884V8.25H118.382L118.4 20.3184C118.942 19.3=
+789 119.737 18.6502 120.785 18.1323C121.833 17.6024 123.001 17.3374 124.29 =
+17.3374ZM123.26 32.6396C124.754 32.6396 126 32.1157 127 31.0679C128 30.008 =
+128.5 28.6108 128.5 26.8765C128.5 25.1421 128 23.751 127 22.7031C126 21.643=
+2 124.754 21.1133 123.26 21.1133C121.791 21.1133 120.556 21.6553 119.557 22=
+.7393C118.557 23.8112 118.057 25.1903 118.057 26.8765C118.057 28.5627 118.5=
+51 29.9478 119.539 31.0317C120.538 32.1037 121.779 32.6396 123.26 32.6396ZM=
+145.157 36.3613C142.037 36.3613 139.743 35.5785 138.273 34.0127C136.816 32.=
+4349 136.087 30.0622 136.087 26.8945L140.694 26.6777C140.694 27.6654 140.75=
+5 28.4904 140.875 29.1528C140.995 29.8032 141.212 30.3874 141.525 30.9053C1=
+41.851 31.4111 142.308 31.7845 142.898 32.0254C143.501 32.2663 144.253 32.3=
+867 145.157 32.3867C146.59 32.3867 147.71 32.0013 148.517 31.2305C149.336 3=
+0.4596 149.746 29.4479 149.746 28.1953C149.746 26.8704 149.354 25.8467 148.=
+571 25.124C147.788 24.4014 146.771 24.04 145.518 24.04H144.416V20.4629H145.=
+464C146.403 20.4629 147.192 20.1257 147.831 19.4512C148.469 18.7767 148.788=
+ 17.9336 148.788 16.9219C148.788 15.9222 148.439 15.1333 147.74 14.5552C147=
+.054 13.9771 146.162 13.688 145.066 13.688C144.356 13.688 143.754 13.8084 1=
+43.26 14.0493C142.778 14.2902 142.411 14.6335 142.158 15.0791C141.917 15.52=
+47 141.748 16.0005 141.652 16.5063C141.556 17.0002 141.507 17.5723 141.507 =
+18.2227L136.937 18.0239C136.937 15.3621 137.647 13.3206 139.068 11.8994C140=
+.49 10.4782 142.477 9.76758 145.03 9.76758C147.331 9.76758 149.234 10.418 1=
+50.739 11.7188C152.245 13.0195 152.998 14.6335 152.998 16.5605C152.998 17.8=
+372 152.66 18.9513 151.986 19.9028C151.311 20.8543 150.522 21.5288 149.619 =
+21.9263C150.956 22.2996 152.076 23.0343 152.979 24.1304C153.883 25.2144 154=
+.334 26.6356 154.334 28.394C154.334 30.8029 153.491 32.736 151.805 34.1934C=
+150.119 35.6387 147.903 36.3613 145.157 36.3613Z" fill=3D"#EBF4FF"/>
+<path d=3D"M173.828 13.5073H163.386V21.8179H172.491V24.7446H163.386V36H160.=
+08V10.5625H173.828V13.5073ZM185.21 36.3433C183.524 36.3433 182.006 35.9759 =
+180.657 35.2412C179.308 34.5065 178.236 33.4346 177.441 32.0254C176.659 30.=
+6042 176.267 28.9661 176.267 27.1113C176.267 24.3291 177.104 22.1009 178.77=
+8 20.4268C180.465 18.7406 182.608 17.8975 185.21 17.8975C187.824 17.8975 18=
+9.967 18.7406 191.642 20.4268C193.316 22.1009 194.153 24.3291 194.153 27.11=
+13C194.153 29.9056 193.31 32.1458 191.624 33.832C189.949 35.5062 187.812 36=
+.3433 185.21 36.3433ZM185.192 33.7417C186.878 33.7417 188.275 33.1335 189.3=
+83 31.917C190.503 30.7005 191.063 29.0986 191.063 27.1113C191.063 25.1361 1=
+90.503 23.5402 189.383 22.3237C188.275 21.1073 186.878 20.499 185.192 20.49=
+9C183.518 20.499 182.127 21.1073 181.019 22.3237C179.923 23.5402 179.375 25=
+.1361 179.375 27.1113C179.375 29.0986 179.923 30.7005 181.019 31.917C182.12=
+7 33.1335 183.518 33.7417 185.192 33.7417ZM202.102 21.3662C202.548 20.3906 =
+203.282 19.5957 204.306 18.9814C205.33 18.3672 206.468 18.054 207.721 18.04=
+2V20.9868C205.914 20.9868 204.535 21.4264 203.583 22.3057C202.644 23.1849 2=
+02.174 24.5881 202.174 26.5151V36H199.049V18.2407H202.102V21.3662ZM229.563 =
+17.8975C231.273 17.8975 232.652 18.4033 233.7 19.415C234.748 20.4147 235.27=
+2 21.8239 235.272 23.6426V36H232.146V24.4556C232.146 23.1668 231.821 22.191=
+2 231.171 21.5288C230.521 20.8664 229.695 20.5352 228.696 20.5352C227.576 2=
+0.5352 226.672 20.9085 225.986 21.6553C225.299 22.402 224.956 23.5221 224.9=
+56 25.0156V36H221.776V24.582C221.776 23.2451 221.445 22.2394 220.783 21.564=
+9C220.132 20.8784 219.295 20.5352 218.271 20.5352C217.163 20.5352 216.26 20=
+.9206 215.562 21.6914C214.875 22.4502 214.532 23.5944 214.532 25.124V36H211=
+.406V18.2407H214.532V20.5352C215.05 19.6921 215.724 19.0417 216.555 18.584C=
+217.398 18.1263 218.344 17.8975 219.392 17.8975C220.536 17.8975 221.548 18.=
+1504 222.427 18.6562C223.306 19.1501 223.962 19.8667 224.396 20.8062C224.92=
+6 19.8667 225.637 19.1501 226.528 18.6562C227.419 18.1504 228.431 17.8975 2=
+29.563 17.8975ZM246.943 36.3433C245.028 36.3433 243.432 35.9157 242.155 35.=
+0605C240.879 34.2054 240.102 32.9889 239.825 31.4111L242.553 30.6343C242.74=
+5 31.6942 243.227 32.5192 243.998 33.1094C244.781 33.6875 245.757 33.9766 2=
+46.925 33.9766C247.551 33.9766 248.117 33.8983 248.623 33.7417C249.141 33.5=
+851 249.581 33.2961 249.942 32.8745C250.303 32.4409 250.478 31.8989 250.466=
+ 31.2485C250.454 30.9836 250.406 30.7427 250.321 30.5259C250.237 30.297 250=
+.141 30.0983 250.032 29.9297C249.924 29.7611 249.755 29.5985 249.526 29.441=
+9C249.298 29.2853 249.093 29.1589 248.912 29.0625C248.731 28.9661 248.46 28=
+.8577 248.099 28.7373C247.75 28.6048 247.467 28.5085 247.25 28.4482C247.033=
+ 28.376 246.702 28.2796 246.256 28.1592C245.811 28.0267 245.467 27.9243 245=
+.227 27.8521C244.48 27.6232 243.866 27.4064 243.384 27.2017C242.902 26.9969=
+ 242.402 26.7139 241.884 26.3525C241.366 25.9792 240.975 25.5094 240.71 24.=
+9434C240.457 24.3773 240.331 23.7148 240.331 22.9561C240.331 21.8359 240.62=
+ 20.8905 241.198 20.1196C241.776 19.3488 242.523 18.7948 243.438 18.4575C24=
+4.365 18.1082 245.419 17.9336 246.6 17.9336C248.31 17.9336 249.749 18.319 2=
+50.917 19.0898C252.098 19.8607 252.82 21.0169 253.085 22.5586L250.52 23.209=
+C250.327 22.2093 249.876 21.4626 249.165 20.9688C248.454 20.4629 247.605 20=
+.21 246.618 20.21C245.69 20.21 244.895 20.4207 244.233 20.8423C243.57 21.25=
+18 243.239 21.8841 243.239 22.7393C243.239 23.1006 243.324 23.4318 243.492 =
+23.7329C243.673 24.022 243.854 24.2508 244.034 24.4194C244.215 24.5881 244.=
+54 24.7687 245.01 24.9614C245.479 25.1421 245.829 25.2686 246.058 25.3408C2=
+46.286 25.401 246.72 25.5094 247.358 25.666C247.479 25.7021 247.569 25.7262=
+ 247.629 25.7383C248.328 25.9189 248.894 26.0815 249.328 26.2261C249.773 26=
+.3586 250.285 26.5754 250.863 26.8765C251.453 27.1655 251.917 27.4847 252.2=
+54 27.834C252.592 28.1833 252.881 28.641 253.122 29.207C253.362 29.7731 253=
+.483 30.4115 253.483 31.1221C253.483 32.0254 253.302 32.8263 252.941 33.524=
+9C252.592 34.2114 252.11 34.7534 251.496 35.1509C250.881 35.5483 250.189 35=
+.8434 249.418 36.0361C248.659 36.2409 247.834 36.3433 246.943 36.3433Z" fil=
+l=3D"#667EEA"/>
+<path d=3D"M19.3157 25.3824L38.8642 14.2119V31.4331L19.3157 44V25.3824Z" fi=
+ll=3D"url(#paint0_linear)"/>
+<path d=3D"M0.116333 14.0955L19.3157 25.3824V43.8836L0.116333 32.7131V14.09=
+55Z" fill=3D"url(#paint1_linear)"/>
+<rect width=3D"22.4213" height=3D"22.4213" transform=3D"matrix(0.866044 0.4=
+99967 -0.866044 0.499967 19.4178 3)" fill=3D"url(#paint2_linear)"/>
+<defs>
+<linearGradient id=3D"paint0_linear" x1=3D"48.7548" y1=3D"39.1129" x2=3D"21=
+.1775" y2=3D"39.1129" gradientUnits=3D"userSpaceOnUse">
+<stop stop-color=3D"#2742CC"/>
+<stop offset=3D"1" stop-color=3D"#344DCF"/>
+</linearGradient>
+<linearGradient id=3D"paint1_linear" x1=3D"23.272" y1=3D"34.9239" x2=3D"-19=
+.8976" y2=3D"34.9239" gradientUnits=3D"userSpaceOnUse">
+<stop stop-color=3D"#546ADE"/>
+<stop offset=3D"1" stop-color=3D"#4A61DD"/>
+</linearGradient>
+<linearGradient id=3D"paint2_linear" x1=3D"22.3624" y1=3D"-0.0589305" x2=3D=
+"2.47737" y2=3D"21.7071" gradientUnits=3D"userSpaceOnUse">
+<stop stop-color=3D"#8898EA"/>
+<stop offset=3D"1" stop-color=3D"#B5C0F8"/>
+</linearGradient>
+</defs>
+</svg>=0A
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web3forms.com/img/logos/html.svg
+
+<svg fill=3D"none" height=3D"50" width=3D"50" xmlns=3D"http://www.w3.org/20=
+00/svg" viewBox=3D"0 0 124 141.53199999999998">
+    <path d=3D"M10.383 126.894L0 0l124 .255-10.979 126.639-50.553 14.638z" =
+fill=3D"#e34f26" />
+    <path d=3D"M62.468 129.277V12.085l51.064.17-9.106 104.851z" fill=3D"#ef=
+652a" />
+    <path
+        d=3D"M99.49 41.362l1.446-15.49H22.383l4.34 47.49h54.213L78.81 93.61=
+7l-17.362 4.68-17.617-5.106-.936-12.085H27.319l2.128 24.681 32 8.936 32.255=
+-8.936 4.34-48.17H41.107L39.49 41.362z"
+        fill=3D"#fff" />
+</svg>
+------MultipartBoundary--qI4aRbleaAQpjucwpNk6UH5WAU5jt5n46JE5qoipZD------
